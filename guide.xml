@@ -1,0 +1,2191 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SkySpMainEvHD">
+    <display-name lang="en">SkySpMainEvHD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4002.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp PL HD">
+    <display-name lang="en">SkySp PL HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4010.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp F'ball HD">
+    <display-name lang="en">SkySp F'ball HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySpCricketHD">
+    <display-name lang="en">SkySpCricketHD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4081.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp Golf HD">
+    <display-name lang="en">SkySp Golf HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4026.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp F1 HD">
+    <display-name lang="en">SkySp F1 HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3835.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp ActionHD">
+    <display-name lang="en">SkySp ActionHD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4022.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp ArenaHD">
+    <display-name lang="en">SkySp ArenaHD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3940.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp News">
+    <display-name lang="en">SkySp News</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1314.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="en">Eurosport 1</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1726.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="en">Eurosport 2</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1841.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Premier 1 HD">
+    <display-name lang="en">Premier 1 HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb5153.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 1">
+    <display-name lang="en">BT Sport 1</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3661.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 2">
+    <display-name lang="en">BT Sport 2</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3663.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp Racing HD">
+    <display-name lang="en">SkySp Racing HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb4032.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 3">
+    <display-name lang="en">BT Sport 3</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb5032.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MUTV">
+    <display-name lang="en">MUTV</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1834.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="FreeSports HD">
+    <display-name lang="en">FreeSports HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1150.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport//ESPN">
+    <display-name lang="en">BT Sport//ESPN</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3141.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="LFCTV HD">
+    <display-name lang="en">LFCTV HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3845.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Racing TV HD">
+    <display-name lang="en">Racing TV HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb5272.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BoxNation">
+    <display-name lang="en">BoxNation</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Premier 2 HD">
+    <display-name lang="en">Premier 2 HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="GINXeSportsTV">
+    <display-name lang="en">GINXeSportsTV</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp Mix HD">
+    <display-name lang="en">SkySp Mix HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp PL">
+    <display-name lang="en">SkySp PL</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp F'ball">
+    <display-name lang="en">SkySp F'ball</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp Cricket">
+    <display-name lang="en">SkySp Cricket</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sp Golf">
+    <display-name lang="en">Sky Sp Golf</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp F1">
+    <display-name lang="en">SkySp F1</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp Action">
+    <display-name lang="en">SkySp Action</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp Arena">
+    <display-name lang="en">SkySp Arena</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp News HD">
+    <display-name lang="en">SkySp News HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 1 HD">
+    <display-name lang="en">BT Sport 1 HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 2 HD">
+    <display-name lang="en">BT Sport 2 HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport 3 HD">
+    <display-name lang="en">BT Sport 3 HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="MUTV HD">
+    <display-name lang="en">MUTV HD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BTSpt//ESPNHD">
+    <display-name lang="en">BTSpt//ESPNHD</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySp Racing">
+    <display-name lang="en">SkySp Racing</display-name>
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <programme start="20230815000000 +0000" stop="20230815010000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815020000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815030000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815050000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815070000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815090000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Good Morning Transfers</title>
+    <desc lang="en">Join Sky Sports News for all the latest updates and news from around the transfer market, with analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Live: The Football Show</title>
+    <desc lang="en">A look at all the major stories making the football headlines, with discussion and analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Live: The Football Show</title>
+    <desc lang="en">A look at all the major stories making the football headlines, with discussion and analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815120000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815130000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Transfer Talk</title>
+    <desc lang="en">The Sky Sports team break down all the latest talking points from the summer transfer window, with analysis and discussion of the major headlines.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815133000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sports Desk</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.(n)</desc>
+  </programme>
+  <programme start="20230815133000 +0000" stop="20230815170000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the 2023 Women's Hundred, Dane van Niekerk's Oval Invincibles meet Heather Knight's London Spirit at the Oval. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815190000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the 2023 men's Hundred, Sam Billings' Oval Invincibles meet Dan Lawrence's London Spirit at the Oval. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815213000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Live EFL: Portsmouth v Exeter City</title>
+    <desc lang="en">Portsmouth play host to Exeter City at Fratton Park in a match from Sky Bet League One. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815213000 +0000" stop="20230815223000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Mission To Burnley</title>
+    <desc lang="en">A Bad Day: It's do or die for Burnley as this fly-on-the-wall Sky Original documentary begins, with tensions running high and Premier League survival at stake.(n)</desc>
+  </programme>
+  <programme start="20230815223000 +0000" stop="20230815230000 +0000" channel="SkySpMainEvHD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815020000 +0000" channel="SkySp PL HD">
+    <title lang="en">Premier League Years 17/18</title>
+    <desc lang="en">A chance to look back on a memorable 2017-18 Premier League season. Pep Guardiola's Man City would stun pundits and fans alike, winning the title at a canter.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815021500 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest Games:Spurs/Arsenal'04</title>
+    <desc lang="en">Remember a classic match from the Premier League. Here, Arsenal head to White Hart Lane back in 2004, looking to secure the Premier League title.(n)</desc>
+  </programme>
+  <programme start="20230815021500 +0000" stop="20230815023000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest:A Villa/B'Ham City '08</title>
+    <desc lang="en">A chance to relive a Premier League classic. Here, Aston Villa enjoy a 5-1 win over Midlands rivals Birmingham at Villa Park back in 2008.(n)</desc>
+  </programme>
+  <programme start="20230815023000 +0000" stop="20230815024500 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest Games:M City/L'Pool 15</title>
+    <desc lang="en">Relive a Premier League classic, as Man City face Liverpool back in November 2015. City needed a win to go back top of the table, while Liverpool were adapting to life under Jurgen Klopp.(n)</desc>
+  </programme>
+  <programme start="20230815024500 +0000" stop="20230815030000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest Games:M City/L'Pool 13</title>
+    <desc lang="en">Relive a Premier League classic, as Man City face Liverpool back in 2013. City needed three points to close the gap at the top to Man Utd, while the Reds were chasing a top four spot.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="SkySp PL HD">
+    <title lang="en">Best Premier League Goals 16/17</title>
+    <desc lang="en">Sky Sports takes a look at some of the best goals from Premier League seasons in years gone by. Here, a look at the best goals scored in the 2016-17 campaign.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815043000 +0000" channel="SkySp PL HD">
+    <title lang="en">Best PL Goals: Manchester United</title>
+    <desc lang="en">Enjoy the best Premier League goals scored by Manchester United over the years. See strikes from legends of the game including Ryan Giggs, David Beckham and more.(n)</desc>
+  </programme>
+  <programme start="20230815043000 +0000" stop="20230815050000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL 100 Club: Emile Heskey</title>
+    <desc lang="en">A celebration of some of the finest goalscorers in Premier League history. Here the focus is on former Leicester City and Liverpool striker Emile Heskey.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815051500 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest: Ipswich/Man Utd 1994</title>
+    <desc lang="en">Ipswich: Enjoy the greatest Premier League game for each of the league's 47 clubs, as voted for by fans. Here, for Ipswich Town, the 3-2 win over Manchester United in September 1994.(n)</desc>
+  </programme>
+  <programme start="20230815051500 +0000" stop="20230815053000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest: M'boro/Man City 2008</title>
+    <desc lang="en">Middlesbrough: Enjoy the greatest Premier League game for each of the league's 49 clubs, as voted for by fans. Here, for Middlesbrough, the 8-1 hammering of Man City back in May 2008.(n)</desc>
+  </programme>
+  <programme start="20230815053000 +0000" stop="20230815054500 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest:Newcastle/Man Utd 1996</title>
+    <desc lang="en">A chance to relive a classic game from the Premier League. Here, Newcastle United enjoy a memorable afternoon at St James' Park as they rip apart Man Utd in a 5-0 destruction.(n)</desc>
+  </programme>
+  <programme start="20230815054500 +0000" stop="20230815060000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest: Man Utd/Norwich 2015</title>
+    <desc lang="en">Norwich: Enjoy the greatest Premier League game for each of the league's 47 clubs, as voted for by fans. Here, for Norwich City, the 2-1 win over Manchester United in December 2015.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815063000 +0000" channel="SkySp PL HD">
+    <title lang="en">MNF: Man United v Wolves Hlts</title>
+    <desc lang="en">Erik ten Hag's second season in charge begins at home to Wolves on Monday Night Football. After a summer of comings and goings, can United challenge the Premier League elite? (14.08).(n)</desc>
+  </programme>
+  <programme start="20230815063000 +0000" stop="20230815070000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL: Bournemouth v West Ham Hlts</title>
+    <desc lang="en">Premier League football returns to the Vitality Stadium for a second season in succession, as Bournemouth - now under the management of Andoni Iraola - welcome West Ham. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815073000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL: Brighton v Luton Highlights</title>
+    <desc lang="en">Luton Town's 31-year wait for top-flight football comes to an end, as they travel to the Amex Stadium for a Premier League contest with Roberto De Zerbi's Brighton. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815073000 +0000" stop="20230815080000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL: Everton v Fulham Highlights</title>
+    <desc lang="en">Sean Dyche starts his first full term in charge of Everton, as Marco Silva's Fulham provide the competition at Goodison Park on the opening weekend of the Premier League season. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815090000 +0000" channel="SkySp PL HD">
+    <title lang="en">Good Morning Transfers</title>
+    <desc lang="en">Join Sky Sports News for all the latest updates and news from around the transfer market, with analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="SkySp PL HD">
+    <title lang="en">Live: The Football Show</title>
+    <desc lang="en">A look at all the major stories making the football headlines, with discussion and analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="SkySp PL HD">
+    <title lang="en">Live: The Football Show</title>
+    <desc lang="en">A look at all the major stories making the football headlines, with discussion and analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815113000 +0000" channel="SkySp PL HD">
+    <title lang="en">Gary Neville's Soccerbox</title>
+    <desc lang="en">David Ginola joins Gary Neville to look back at some of their most memorable moments together on the pitch, and revisit some of the Frenchman's best goals in the top flight.(n)</desc>
+  </programme>
+  <programme start="20230815113000 +0000" stop="20230815120000 +0000" channel="SkySp PL HD">
+    <title lang="en">Soccerbox: Jamie Carragher</title>
+    <desc lang="en">Gary Neville sits down with fellow pundit Jamie Carragher as they go through some of the most compelling matches from their trophy-laden careers.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815130000 +0000" channel="SkySp PL HD">
+    <title lang="en">Transfer Talk</title>
+    <desc lang="en">The Sky Sports team break down all the latest talking points from the summer transfer window, with analysis and discussion of the major headlines.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815133000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL: Brentford v Tottenham Hlts</title>
+    <desc lang="en">Having swapped Celtic for Spurs, Ange Postecoglou's first Premier League test as Tottenham boss comes at the Gtech Community Stadium on Super Sunday - the home of Brentford. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815133000 +0000" stop="20230815140000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL: Chelsea v Liverpool Highlights</title>
+    <desc lang="en">On Super Sunday, Mauricio Pochettino steps into the pressure cooker that is Stamford Bridge, with his Chelsea side taking on Jurgen Klopp's Liverpool in the Premier League. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815141500 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest Games:Man U/L'Pool '95</title>
+    <desc lang="en">A look back at some classic matches in the Premier League. Here, Man United host Liverpool in October 1995, as Eric Cantona returned from his lengthy suspension in a thrilling 2-2 draw.(n)</desc>
+  </programme>
+  <programme start="20230815141500 +0000" stop="20230815143000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest Games:L'Pool/Man U '97</title>
+    <desc lang="en">A look back at some classic matches in the Premier League. Here, Liverpool meet Manchester United at Anfield in 1997, in a match that had a happy outcome for the Red Devils.(n)</desc>
+  </programme>
+  <programme start="20230815143000 +0000" stop="20230815144500 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest Games:L'Pool/Man U '01</title>
+    <desc lang="en">A look back at some classic matches in the Premier League. Here, Liverpool meet Manchester United in 2001, as a Michael Owen brace guided the home side to victory.(n)</desc>
+  </programme>
+  <programme start="20230815144500 +0000" stop="20230815150000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Greatest Games:Man U/L'Pool '10</title>
+    <desc lang="en">A look back at some classic matches in the Premier League. Here, Manchester United meet Liverpool in 2010, with a Dimitar Berbatov hat-trick proving the difference between the two teams.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815153000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL: Brentford v Tottenham Hlts</title>
+    <desc lang="en">Having swapped Celtic for Spurs, Ange Postecoglou's first Premier League test as Tottenham boss comes at the Gtech Community Stadium on Super Sunday - the home of Brentford. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815153000 +0000" stop="20230815160000 +0000" channel="SkySp PL HD">
+    <title lang="en">PL: Chelsea v Liverpool Highlights</title>
+    <desc lang="en">On Super Sunday, Mauricio Pochettino steps into the pressure cooker that is Stamford Bridge, with his Chelsea side taking on Jurgen Klopp's Liverpool in the Premier League. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815160000 +0000" stop="20230815163000 +0000" channel="SkySp PL HD">
+    <title lang="en">The Transfer Show</title>
+    <desc lang="en">With the summer window open, join Sky Sports News for all the latest updates and news from around the transfer market, with analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815170000 +0000" channel="SkySp PL HD">
+    <title lang="en">Netbusters</title>
+    <desc lang="en">Relive the best action from the Premier League in a unique way with fast-paced highlights using alternative angles, featuring every goal from every game.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815180000 +0000" channel="SkySp PL HD">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the weekend's action in the Premier League, featuring all of the goals, news and major talking points from around the top flight.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815211500 +0000" channel="SkySp PL HD">
+    <title lang="en">Gillette Labs Soccer Special</title>
+    <desc lang="en">Follow the full story of the evening's football, with the team on hand to provide all the latest updates and goal alerts from the games.(n)</desc>
+  </programme>
+  <programme start="20230815211500 +0000" stop="20230815221500 +0000" channel="SkySp PL HD">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the weekend's action in the Premier League, featuring all of the goals, news and major talking points from around the top flight.(n)</desc>
+  </programme>
+  <programme start="20230815221500 +0000" stop="20230815224500 +0000" channel="SkySp PL HD">
+    <title lang="en">Netbusters</title>
+    <desc lang="en">Relive the best action from the Premier League in a unique way with fast-paced highlights using alternative angles, featuring every goal from every game.(n)</desc>
+  </programme>
+  <programme start="20230815224500 +0000" stop="20230815231500 +0000" channel="SkySp PL HD">
+    <title lang="en">PL Icons: Cristiano Ronaldo</title>
+    <desc lang="en">A look at one of the most iconic players to have graced the Premier League. Here, the focus is on global superstar Cristiano Ronaldo, who was prolific during his time at Man Utd.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815010000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Cup 21/22: Chelsea v Liverpool</title>
+    <desc lang="en">A new chapter is written in one of the great 21st Century footballing rivalries as Chelsea and Liverpool meet at Wembley in the 2022 Carabao Cup Final.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815020000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Play-Off Final: C'Ship 21/22</title>
+    <desc lang="en">After 46 games and a two-legged semi-final, it all comes down to this - the Sky Bet Championship Play-Off Final. One place remains in the Premier League, will it be Huddersfield or Forest.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815030000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Play-Off Final: League 1 21/22</title>
+    <desc lang="en">After a long, gruelling Sky Bet League 1 campaign - the play-off final has arrived at Wembley Stadium. Will it be Sunderland or Wycombe who secure promotion to the Championship.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Play-Off Final: League 2 21/22</title>
+    <desc lang="en">Promotion awaits as Mansfield Town take on Port Vale in the Sky Bet League 2 Play-Off final at Wembley. Who will secure their place next season in England's third tier.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815050000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">C'Ship Season Review: 2021/22</title>
+    <desc lang="en">Revisit the 2021/2022 Sky Bet Championship campaign, as Forest secured their long-awaited return to the promised land of the top flight alongside league winners Fulham and Bournemouth.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Play-Off Final: C'Ship 18/19</title>
+    <desc lang="en">Dean Smith's Aston Villa and Frank Lampard's Derby County meet at Wembley in the Sky Bet Championship play-off final, as the final side in next year's Premier League is confirmed.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815070000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Play-Off Final: League 1 18/19</title>
+    <desc lang="en">Charlton Athletic take on Sunderland at Wembley in the Sky Bet League One play-off final. These sides famously met in the Division One play-off final back in 1998 in a 4-4 thriller.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Play-Off Final: League 2 18/19</title>
+    <desc lang="en">Newport County and Tranmere Rovers face off at Wembley in the Sky Bet League Two play-off final, with the final place in next season's League One on the line.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815083000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">Scottish Goals Of The Season 10-11</title>
+    <desc lang="en">Look back at the very best goals from the 2010-11 Scottish Premier League season, from wonder strikes to great team goals and more.(n)</desc>
+  </programme>
+  <programme start="20230815083000 +0000" stop="20230815084500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 15/16:Middlesbrough v Brighton</title>
+    <desc lang="en">A look back at some classic matches from the English Football League. Here, Middlesbrough take on Brighton and Hove Albion in a tense Championship promotion decider in May 2016.(n)</desc>
+  </programme>
+  <programme start="20230815084500 +0000" stop="20230815090000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 15/16: Aston Villa v N. Forest</title>
+    <desc lang="en">A look back at some classic matches from the English Football League. Here, Aston Villa play Nottingham Forest in a thrilling draw in September 2016 in the Sky Bet Championship.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815110000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">Retro C'Ship SF 19: Leeds v Derby</title>
+    <desc lang="en">A chance to relive a classic clash from the Championship play-offs. Here, a dramatic semi-final second leg from the 2018-19 season as Leeds and Derby went head-to-head at Elland Road.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815113000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Goals: League 1 &amp; 2</title>
+    <desc lang="en">Catch up on all the goals and highlights from the latest round of Sky Bet League One and League Two fixtures from the 2023-2024 season.(n)</desc>
+  </programme>
+  <programme start="20230815113000 +0000" stop="20230815114500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">Scottish Premiership Round-Up Show</title>
+    <desc lang="en">A review of the Scottish Premiership action from the latest round of fixtures in the 2023-2024 season.(n)</desc>
+  </programme>
+  <programme start="20230815114500 +0000" stop="20230815120000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">SPFL 23/24: Aberdeen v Celtic</title>
+    <desc lang="en">The champions Celtic travel to Aberdeen for a match in the Scottish Premiership. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815121500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Preston NE v Sunderland</title>
+    <desc lang="en">Preston North End play host to Sunderland at Deepdale in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815121500 +0000" stop="20230815123000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Rotherham v Blackburn</title>
+    <desc lang="en">Rotherham United play host to Blackburn Rovers at the AESSEAL New York Stadium in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815123000 +0000" stop="20230815124500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Southampton v Norwich</title>
+    <desc lang="en">Southampton play host to Norwich City at St Mary's in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815124500 +0000" stop="20230815130000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Watford v Plymouth</title>
+    <desc lang="en">Watford play host to Plymouth Argyle at Vicarage Road in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815131500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: West Brom v Swansea</title>
+    <desc lang="en">West Brom play host to Swansea City at the Hawthorns in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815131500 +0000" stop="20230815133000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Millwall v Bristol City</title>
+    <desc lang="en">Millwall play host to Bristol City at the Den in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815133000 +0000" stop="20230815134500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Rotherham v Blackburn</title>
+    <desc lang="en">Rotherham United play host to Blackburn Rovers at the AESSEAL New York Stadium in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815134500 +0000" stop="20230815140000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Southampton v Norwich</title>
+    <desc lang="en">Southampton play host to Norwich City at St Mary's in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815141500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Watford v Plymouth</title>
+    <desc lang="en">Watford play host to Plymouth Argyle at Vicarage Road in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815141500 +0000" stop="20230815143000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: West Brom v Swansea</title>
+    <desc lang="en">West Brom play host to Swansea City at the Hawthorns in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815143000 +0000" stop="20230815150000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL Goals: League 1 &amp; 2</title>
+    <desc lang="en">Catch up on all the goals and highlights from the latest round of Sky Bet League One and League Two fixtures from the 2023-2024 season.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815151500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">Scottish Premiership Round-Up Show</title>
+    <desc lang="en">A review of the Scottish Premiership action from the latest round of fixtures in the 2023-2024 season.(n)</desc>
+  </programme>
+  <programme start="20230815151500 +0000" stop="20230815153000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">SPFL 23/24: Aberdeen v Celtic</title>
+    <desc lang="en">The champions Celtic travel to Aberdeen for a match in the Scottish Premiership. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815153000 +0000" stop="20230815154500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24:Coventry v Middlesbrough</title>
+    <desc lang="en">Mark Robins' Coventry City play host to Michael Carrick's Middlesbrough at the Coventry Building Society Arena in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815154500 +0000" stop="20230815160000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Birmingham v Leeds Utd</title>
+    <desc lang="en">Birmingham City play host to Leeds United at St Andrew's in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815160000 +0000" stop="20230815161500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Cardiff City v QPR</title>
+    <desc lang="en">Cardiff City play host to Queens Park Rangers at the Cardiff City Stadium in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815161500 +0000" stop="20230815163000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24:Huddersfield v Leicester</title>
+    <desc lang="en">Huddersfield Town play host to Leicester City at the John Smith's Stadium in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815170000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">Scottish Goals Of The Season 14-15</title>
+    <desc lang="en">Look back at the very best goals from the 2014-2015 Scottish Premiership season.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815171500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Hull City v Sheff Weds</title>
+    <desc lang="en">Hull City play host to Sheffield Wednesday at the MKM Stadium in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815171500 +0000" stop="20230815173000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Ipswich v Stoke City</title>
+    <desc lang="en">Ipswich Town play host to Stoke City at Portman Road in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815173000 +0000" stop="20230815174500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Millwall v Bristol City</title>
+    <desc lang="en">Millwall play host to Bristol City at the Den in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815174500 +0000" stop="20230815180000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Preston NE v Sunderland</title>
+    <desc lang="en">Preston North End play host to Sunderland at Deepdale in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815181500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Rotherham v Blackburn</title>
+    <desc lang="en">Rotherham United play host to Blackburn Rovers at the AESSEAL New York Stadium in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815181500 +0000" stop="20230815183000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Southampton v Norwich</title>
+    <desc lang="en">Southampton play host to Norwich City at St Mary's in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815183000 +0000" stop="20230815184500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">SPFL 23/24: Aberdeen v Celtic</title>
+    <desc lang="en">The champions Celtic travel to Aberdeen for a match in the Scottish Premiership. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815184500 +0000" stop="20230815213000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">Live EFL: Portsmouth v Exeter City</title>
+    <desc lang="en">Portsmouth play host to Exeter City at Fratton Park in a match from Sky Bet League One. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815213000 +0000" stop="20230815223000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">Mission To Burnley</title>
+    <desc lang="en">A Bad Day: It's do or die for Burnley as this fly-on-the-wall Sky Original documentary begins, with tensions running high and Premier League survival at stake.(n)</desc>
+  </programme>
+  <programme start="20230815223000 +0000" stop="20230815224500 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24: Cardiff City v QPR</title>
+    <desc lang="en">Cardiff City play host to Queens Park Rangers at the Cardiff City Stadium in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815224500 +0000" stop="20230815230000 +0000" channel="SkySp F'ball HD">
+    <title lang="en">EFL 23/24:Huddersfield v Leicester</title>
+    <desc lang="en">Huddersfield Town play host to Leicester City at the John Smith's Stadium in the Sky Bet Championship. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815003000 +0000" stop="20230815040000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the 2023 men's Hundred, Tom Abell's Welsh Fire face Lewis Gregory's Trent Rockets in Cardiff. (14.08).(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815041500 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 Women's Hundred, Ellyse Perry's Birmingham Phoenix square off against Dane van Niekerk's Oval Invincibles at Edgbaston. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815041500 +0000" stop="20230815043000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 men's Hundred, Moeen Ali's Birmingham Phoenix square off against Sam Billing's Oval Invincibles at Edgbaston. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815043000 +0000" stop="20230815044500 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 Women's Hundred, Tammy Beaumont's Welsh Fire face Natalie Sciver-Brunt's Trent Rockets in Cardiff. (14.08).(n)</desc>
+  </programme>
+  <programme start="20230815044500 +0000" stop="20230815050000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 men's Hundred, Tom Abell's Welsh Fire face Lewis Gregory's Trent Rockets in Cardiff. (14.08).(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815083000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the 2023 Women's Hundred, Tammy Beaumont's Welsh Fire face Natalie Sciver-Brunt's Trent Rockets in Cardiff. (14.08).(n)</desc>
+  </programme>
+  <programme start="20230815083000 +0000" stop="20230815120000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the 2023 men's Hundred, Tom Abell's Welsh Fire face Lewis Gregory's Trent Rockets in Cardiff. (14.08).(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815121500 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 Women's Hundred, Ellyse Perry's Birmingham Phoenix square off against Dane van Niekerk's Oval Invincibles at Edgbaston. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815121500 +0000" stop="20230815123000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 men's Hundred, Moeen Ali's Birmingham Phoenix square off against Sam Billing's Oval Invincibles at Edgbaston. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815123000 +0000" stop="20230815124500 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 Women's Hundred, Ellyse Perry's Birmingham Phoenix square off against Dane van Niekerk's Oval Invincibles at Edgbaston. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815124500 +0000" stop="20230815130000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 men's Hundred, Moeen Ali's Birmingham Phoenix square off against Sam Billing's Oval Invincibles at Edgbaston. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815131500 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 Women's Hundred, Tammy Beaumont's Welsh Fire face Natalie Sciver-Brunt's Trent Rockets in Cardiff. (14.08).(n)</desc>
+  </programme>
+  <programme start="20230815131500 +0000" stop="20230815133000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 men's Hundred, Tom Abell's Welsh Fire face Lewis Gregory's Trent Rockets in Cardiff. (14.08).(n)</desc>
+  </programme>
+  <programme start="20230815133000 +0000" stop="20230815170000 +0000" channel="SkySpCricketHD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the 2023 Women's Hundred, Dane van Niekerk's Oval Invincibles meet Heather Knight's London Spirit at the Oval. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815203000 +0000" channel="SkySpCricketHD">
+    <title lang="en">Live The Hundred</title>
+    <desc lang="en">In the 2023 men's Hundred, Sam Billings' Oval Invincibles meet Dan Lawrence's London Spirit at the Oval. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815203000 +0000" stop="20230815204500 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 men's Hundred, Sam Billings' Oval Invincibles meet Dan Lawrence's London Spirit at the Oval. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815204500 +0000" stop="20230815210000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred Bitesize Hlts</title>
+    <desc lang="en">In the 2023 Women's Hundred, Dane van Niekerk's Oval Invincibles meet Heather Knight's London Spirit at the Oval. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230816003000 +0000" channel="SkySpCricketHD">
+    <title lang="en">The Hundred</title>
+    <desc lang="en">In the 2023 Women's Hundred, Dane van Niekerk's Oval Invincibles meet Heather Knight's London Spirit at the Oval. (15.08).(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815010000 +0000" channel="SkySp Golf HD">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">Highlights from the 2023 FedEx St Jude Championship, as the race to become the FedExCup champion intensified with the start of the playoffs here at TPC Southwind.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815020000 +0000" channel="SkySp Golf HD">
+    <title lang="en">The Northern Trust 2015 Hlts</title>
+    <desc lang="en">The 2015 Northern Trust Open from the Riviera Country Club in Pacific Palisades, California. Bubba Watson was victorious this time last year.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815030000 +0000" channel="SkySp Golf HD">
+    <title lang="en">The Northern Trust 2017 Hlts</title>
+    <desc lang="en">Day four of the Northern Trust from the Glen Oaks Club. A strong third round sees Jordan Spieth three clear at the top on 12 under, with world number one Dustin Johnson in second.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="SkySp Golf HD">
+    <title lang="en">St Jude Championship 2022 Hlts</title>
+    <desc lang="en">Tournament highlights from the 2022 FedEx St. Jude Championship at TPC Southwind in Memphis, Tennessee - as the 125 man field was reduced to 70 in the FedEx Cup Playoffs.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815050000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Women's Open 2020 Official Film</title>
+    <desc lang="en">The best of the action from day four of the AIG Women's British Open from the famous Royal Troon in Scotland. Past champions of this event include Georgia Hall and Catriona Matthew.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815053000 +0000" channel="SkySp Golf HD">
+    <title lang="en">School of Golf</title>
+    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Here, take inspiration from a selection of iconic shots. Ep 5.(n)</desc>
+  </programme>
+  <programme start="20230815053000 +0000" stop="20230815060000 +0000" channel="SkySp Golf HD">
+    <title lang="en">School of Golf</title>
+    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Here, learn how to correct the slices in your game. Ep 6.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815063000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Playing Lessons: Mina Harigae</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Mina Harigae delivers the lesson.(n)</desc>
+  </programme>
+  <programme start="20230815063000 +0000" stop="20230815070000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Playing Lessons: Nick Dougherty</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Nick Dougherty delivers the lesson.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Best of The Open Zone 2018</title>
+    <desc lang="en">A look at the best moments from The Open Zone at Royal Birkdale in 2017, with masterclasses and demonstrations from some of golf's finest players.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815083000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Nick Dougherty's Tee Time Tips</title>
+    <desc lang="en">Nick Dougherty returns with another episode of Tee Time Tips.(n)</desc>
+  </programme>
+  <programme start="20230815083000 +0000" stop="20230815090000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Nick Dougherty's Tee Time Tips</title>
+    <desc lang="en">Sky Sports Golf pundit and former European Tour star Nick Dougherty provides a special set of Tee Time Tips from The 149th Open Championship at Royal St George's Golf Club, England.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Women's Open Golf Highlights</title>
+    <desc lang="en">On day four at Walton Heath Golf Club in Surrey, the final round of the 2023 AIG Women's Open is in play. Since its inception in 1976, 39 golfers have claimed this coveted prize. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="SkySp Golf HD">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">Highlights from the 2023 FedEx St Jude Championship, as the race to become the FedExCup champion intensified with the start of the playoffs here at TPC Southwind.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815120000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Legends Tour Golf Highlights</title>
+    <desc lang="en">Highlights from the 2023 JCB Championship, staged at SJCB Golf &amp; Country Club in Uttoxeter, England. Alex Cejka outlasted stiff competition on his way to victory here last year.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815123000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Playing Lessons: Mina Harigae</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Mina Harigae delivers the lesson.(n)</desc>
+  </programme>
+  <programme start="20230815123000 +0000" stop="20230815130000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Playing Lessons: Nick Dougherty</title>
+    <desc lang="en">Former and current pros take viewers behind the ropes on the course, discussing such things as shot setup, club selection, and strategy. Here, Nick Dougherty delivers the lesson.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815140000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Best of The Open Zone 2018</title>
+    <desc lang="en">A look at the best moments from The Open Zone at Royal Birkdale in 2017, with masterclasses and demonstrations from some of golf's finest players.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815143000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Nick Dougherty's Tee Time Tips</title>
+    <desc lang="en">Nick Dougherty returns with another episode of Tee Time Tips.(n)</desc>
+  </programme>
+  <programme start="20230815143000 +0000" stop="20230815150000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Nick Dougherty's Tee Time Tips</title>
+    <desc lang="en">Sky Sports Golf pundit and former European Tour star Nick Dougherty provides a special set of Tee Time Tips from The 149th Open Championship at Royal St George's Golf Club, England.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815153000 +0000" channel="SkySp Golf HD">
+    <title lang="en">School of Golf</title>
+    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Here, take inspiration from a selection of iconic shots. Ep 5.(n)</desc>
+  </programme>
+  <programme start="20230815153000 +0000" stop="20230815160000 +0000" channel="SkySp Golf HD">
+    <title lang="en">School of Golf</title>
+    <desc lang="en">The School of Golf offers tips and tricks on how to improve your golfing game. Here, learn how to correct the slices in your game. Ep 6.(n)</desc>
+  </programme>
+  <programme start="20230815160000 +0000" stop="20230815170000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Women's Open Golf Highlights</title>
+    <desc lang="en">On day four at Walton Heath Golf Club in Surrey, the final round of the 2023 AIG Women's Open is in play. Since its inception in 1976, 39 golfers have claimed this coveted prize. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815180000 +0000" channel="SkySp Golf HD">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">Highlights from the 2023 FedEx St Jude Championship, as the race to become the FedExCup champion intensified with the start of the playoffs here at TPC Southwind.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815190000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Legends Tour Golf Highlights</title>
+    <desc lang="en">Highlights from the 2023 JCB Championship, staged at SJCB Golf &amp; Country Club in Uttoxeter, England. Alex Cejka outlasted stiff competition on his way to victory here last year.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815210000 +0000" channel="SkySp Golf HD">
+    <title lang="en">How The 2016 Ryder Cup Was Won</title>
+    <desc lang="en">As the dust settles on The 2016 Ryder Cup from Hazeltine National Golf Club in Minnesota, take a look back at a remarkable few days, and see how the prestigious trophy was won.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815220000 +0000" channel="SkySp Golf HD">
+    <title lang="en">Women's Open Golf Highlights</title>
+    <desc lang="en">On day four at Walton Heath Golf Club in Surrey, the final round of the 2023 AIG Women's Open is in play. Since its inception in 1976, 39 golfers have claimed this coveted prize. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815230000 +0000" channel="SkySp Golf HD">
+    <title lang="en">PGA Tour Golf Highlights</title>
+    <desc lang="en">Highlights from the 2023 FedEx St Jude Championship, as the race to become the FedExCup champion intensified with the start of the playoffs here at TPC Southwind.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815003000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815003000 +0000" stop="20230815010000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815013000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815013000 +0000" stop="20230815020000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815023000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815023000 +0000" stop="20230815030000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815033000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815033000 +0000" stop="20230815040000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815043000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815043000 +0000" stop="20230815050000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">In a year that saw Max Verstappen claim a second world championship, look back on the story of 2022 with the some of the best features on Sky Sports F1.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815053000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Bahrain and Saudi Arabian Grands Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815053000 +0000" stop="20230815055500 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Australian Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815055500 +0000" stop="20230815062000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Azerbaijan Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815062000 +0000" stop="20230815064500 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Miami Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815064500 +0000" stop="20230815071500 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 British Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815071500 +0000" stop="20230815074500 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Spanish Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815074500 +0000" stop="20230815081500 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Canadian Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815081500 +0000" stop="20230815084500 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Monaco Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815084500 +0000" stop="20230815091500 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Austrian and British Grands Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815091500 +0000" stop="20230815093500 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Australian Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815093500 +0000" stop="20230815100000 +0000" channel="SkySp F1 HD">
+    <title lang="en">The Home of Formula One</title>
+    <desc lang="en">A look back at the best stories and features from the 2023 Azerbaijan Grand Prix with Sky's Formula 1 presenters.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815121500 +0000" channel="SkySp F1 HD">
+    <title lang="en">Monaco F1 GP: Qualifying Hlts</title>
+    <desc lang="en">On a legendary street circuit where overtaking is notoriously difficult, qualifying in Monaco can make or break a weekend. Verstappen led Perez in FP3 with Hamilton crashing. (27.05).(n)</desc>
+  </programme>
+  <programme start="20230815121500 +0000" stop="20230815124500 +0000" channel="SkySp F1 HD">
+    <title lang="en">Ted's Quali Notebook: Monaco</title>
+    <desc lang="en">Ted Kravitz is in the paddock as he reviews all the biggest stories from qualifying at the 2023 Monaco Grand Prix.(n)</desc>
+  </programme>
+  <programme start="20230815124500 +0000" stop="20230815125000 +0000" channel="SkySp F1 HD">
+    <title lang="en">F1 Demystified: Carbon Fibre</title>
+    <desc lang="en">Sky F1's Natalie Pinkham examines the use of carbon fibre in the sport and explains how teams make use of it.(n)</desc>
+  </programme>
+  <programme start="20230815125000 +0000" stop="20230815130000 +0000" channel="SkySp F1 HD">
+    <title lang="en">Lewis Hamilton - Eight Times</title>
+    <desc lang="en">Sir Lewis Hamilton takes a look back at his record eight victories at the British Grand Prix.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815142500 +0000" channel="SkySp F1 HD">
+    <title lang="en">Grand Prix Sunday: Monaco</title>
+    <desc lang="en">Join Sky Sports F1 on the grid ahead of the start of the race at the 2023 Monaco Grand Prix.(n)</desc>
+  </programme>
+  <programme start="20230815142500 +0000" stop="20230815165000 +0000" channel="SkySp F1 HD">
+    <title lang="en">Monaco F1 Grand Prix</title>
+    <desc lang="en">On the streets of Monte Carlo, the one-of-a-kind Monaco Grand Prix arrives, as Max Verstappen has pole ahead of Fernando Alonso. Esteban Ocon starts in P3 with Lewis Hamilton in P5. (28.05).(n)</desc>
+  </programme>
+  <programme start="20230815165000 +0000" stop="20230815173000 +0000" channel="SkySp F1 HD">
+    <title lang="en">Chequered Flag: Monaco</title>
+    <desc lang="en">As the chequered flag comes down on the 2023 Monaco Grand Prix, join Sky Sports F1 in the paddock for all the reaction and analysis.(n)</desc>
+  </programme>
+  <programme start="20230815173000 +0000" stop="20230815175000 +0000" channel="SkySp F1 HD">
+    <title lang="en">Ted's Notebook: Monaco</title>
+    <desc lang="en">Ted Kravitz is live following the 2023 Monaco Grand Prix, as he shares his thoughts on the race while gathering reaction from the paddock.(n)</desc>
+  </programme>
+  <programme start="20230815175000 +0000" stop="20230815183000 +0000" channel="SkySp F1 HD">
+    <title lang="en">Toleman Story</title>
+    <desc lang="en">Revisit the Toleman story, an F1 team born in the 80s that lasted five seasons, leaving behind a long-lasting legacy having housed legends Ayrton Senna, Derek Warwick and Martin Brundle.(n)</desc>
+  </programme>
+  <programme start="20230815183000 +0000" stop="20230815210000 +0000" channel="SkySp F1 HD">
+    <title lang="en">Monaco F1 Grand Prix</title>
+    <desc lang="en">On the streets of Monte Carlo, the one-of-a-kind Monaco Grand Prix arrives, as Max Verstappen has pole ahead of Fernando Alonso. Esteban Ocon starts in P3 with Lewis Hamilton in P5. (28.05).(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815220000 +0000" channel="SkySp F1 HD">
+    <title lang="en">Indycar: Indianapolis Hlts</title>
+    <desc lang="en">The 2023 NTT IndyCar Series continues at the Gallagher Grand Prix, as the Indianapolis Motor Speedway stages its second race of the season. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815230000 +0000" channel="SkySp F1 HD">
+    <title lang="en">Monaco F1 GP: Highlights</title>
+    <desc lang="en">On the streets of Monte Carlo, the one-of-a-kind Monaco Grand Prix arrives, as Max Verstappen has pole ahead of Fernando Alonso. Esteban Ocon starts in P3 with Lewis Hamilton in P5. (28.05).(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815020000 +0000" channel="SkySp ActionHD">
+    <title lang="en">NBC's Pro Football Talk</title>
+    <desc lang="en">Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815021500 +0000" channel="SkySp ActionHD">
+    <title lang="en">1920 Football Drive</title>
+    <desc lang="en">Kicking off the 2023 off-season programme, get an exclusive look inside meeting rooms, the team's travels, OTAs and much more from the Chicago Bears.(n)</desc>
+  </programme>
+  <programme start="20230815021500 +0000" stop="20230815030000 +0000" channel="SkySp ActionHD">
+    <title lang="en">One Jets Drive</title>
+    <desc lang="en">Go all-access with Aaron Rodgers and the New York Jets during the 2023 NFL season. Ep 1.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="SkySp ActionHD">
+    <title lang="en">NFL: Packers In Action</title>
+    <desc lang="en">The Green Bay Packers and Los Angeles Rams face off at the iconic Lambeau Field in week 15 on Monday Night Football. (19.12).(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815050000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Highest Scoring NFL Games '22</title>
+    <desc lang="en">The Green Bay Packers host the Minnesota Vikings in week 17 of the 2022 NFL season. The playoff chase is still on for the Packers who recently extended their winning run to three. (01.01).(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815071000 +0000" channel="SkySp ActionHD">
+    <title lang="en">The Rugby Championship: NZ v AUS</title>
+    <desc lang="en">New Zealand host Australia in Dunedin as an additional Bledisloe Cup match takes place. The All Blacks won the sides' previous clash a week earlier to defend the Rugby Championship. (05.08).(n)</desc>
+  </programme>
+  <programme start="20230815071000 +0000" stop="20230815073000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Meet the Vikings' Big Three</title>
+    <desc lang="en">Kirk Cousins, Justin Jefferson and Adam Thielen, the three key players in the Minnesota Vikings' pass attack, discuss how crucial the quarterback-wide receiver relationship is to success.(n)</desc>
+  </programme>
+  <programme start="20230815073000 +0000" stop="20230815090000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Leonard v Duran 1980</title>
+    <desc lang="en">Return to Olympic Stadium for 'The Brawl in Montreal' as Sugar Ray Leonard and Roberto DurÃ¡n clash in a historic fight in 1980.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815093000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Boxing Special: Pressure</title>
+    <desc lang="en">Go behind the scenes with Xander Zayas and Shu Shu Carrington as they deal with the pressure leading up to their most recent fights.(n)</desc>
+  </programme>
+  <programme start="20230815093000 +0000" stop="20230815103000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Fight Night Int:Beterbiev v Browne</title>
+    <desc lang="en">Knockout artist Artur Beterbiev clashes with former Olympian Marcus Browne in a defence of his IBF and WBC light-heavyweight championships at the Bell Centre in Montreal.(n)</desc>
+  </programme>
+  <programme start="20230815103000 +0000" stop="20230815104500 +0000" channel="SkySp ActionHD">
+    <title lang="en">NFL: Titans @ Eagles '22 Hlts</title>
+    <desc lang="en">Bitesize highlights as the NFL-leading Philadelphia Eagles look to extend their lead atop the NFC East as they host the Tennessee Titans. (04.12).(n)</desc>
+  </programme>
+  <programme start="20230815104500 +0000" stop="20230815110000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Highest Scoring NFL Games '22</title>
+    <desc lang="en">Bitesize highlights as the 11-1 Philadelphia Eagles visit the New York Giants, who are in a dogfight for one of the NFC's Wild Card spots. (11.12).(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815140000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Live: Good Morning Football</title>
+    <desc lang="en">Get up-to-the-minute breaking NFL news, headline-making interviews and local NFL stories.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815161000 +0000" channel="SkySp ActionHD">
+    <title lang="en">The Rugby Championship: NZ v AUS</title>
+    <desc lang="en">New Zealand host Australia in Dunedin as an additional Bledisloe Cup match takes place. The All Blacks won the sides' previous clash a week earlier to defend the Rugby Championship. (05.08).(n)</desc>
+  </programme>
+  <programme start="20230815161000 +0000" stop="20230815163000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Kittle The Star In San Francisco</title>
+    <desc lang="en">San Francisco 49ers superstar tight end George Kittle sits down with Neil Reynolds to discuss his journey to the NFL, his passion for the game, and why he chose to be a tight end.(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815164500 +0000" channel="SkySp ActionHD">
+    <title lang="en">Seahawks @ Buccaneers in Munich</title>
+    <desc lang="en">Bitesize highlights as Munich hosts the NFL for the first time with the Tampa Bay Buccaneers and Seattle Seahawks heading to the iconic Allianz Arena. (13.11).(n)</desc>
+  </programme>
+  <programme start="20230815164500 +0000" stop="20230815170000 +0000" channel="SkySp ActionHD">
+    <title lang="en">NFL: Vikings @ Saints London '22</title>
+    <desc lang="en">The NFL is back in the capital as the New Orleans Saints and Minnesota Vikings duke it out at Tottenham Hotspur Stadium. The 2-1 Vikings can stay atop the NFC North with a win. (02.10).(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815190000 +0000" channel="SkySp ActionHD">
+    <title lang="en">NBC's Pro Football Talk</title>
+    <desc lang="en">Mike Florio and Chris Simms present this NFL talk show, as they discuss and debate the biggest stories from around the league.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815203000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Leonard v Duran 1980</title>
+    <desc lang="en">Return to Olympic Stadium for 'The Brawl in Montreal' as Sugar Ray Leonard and Roberto DurÃ¡n clash in a historic fight in 1980.(n)</desc>
+  </programme>
+  <programme start="20230815203000 +0000" stop="20230815210000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Boxing Special: Pressure</title>
+    <desc lang="en">Go behind the scenes with Xander Zayas and Shu Shu Carrington as they deal with the pressure leading up to their most recent fights.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815220000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Fight Night Int:Beterbiev v Browne</title>
+    <desc lang="en">Knockout artist Artur Beterbiev clashes with former Olympian Marcus Browne in a defence of his IBF and WBC light-heavyweight championships at the Bell Centre in Montreal.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815223000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Chicago Bears: Meet the Rookies</title>
+    <desc lang="en">Documentary offering fans a behind-the-scenes look at three of the Chicago Bears' 2023 NFL Draft picks. Featuring Gervon Dexter Sr, Zacch Pickens and Roschon Johnson.(n)</desc>
+  </programme>
+  <programme start="20230815223000 +0000" stop="20230815230000 +0000" channel="SkySp ActionHD">
+    <title lang="en">Live: NFL Fantasy</title>
+    <desc lang="en">Featuring the top NFL fantasy experts and analysts, this is the perfect companion to dominate your fantasy football leagues, providing key insights to build the best line-up.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815001500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Leeds V Leigh Hlts</title>
+    <desc lang="en">The surprise package of 2023 continue to go from strength to strength, and with a Challenge Cup final in sight, the Leopards take to Headingley looking to halt the Rhinos' momentum. (06.08).(n)</desc>
+  </programme>
+  <programme start="20230815001500 +0000" stop="20230815003000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">WS/Lge: Leeds V York Hlts</title>
+    <desc lang="en">Leeds Rhinos begin the defence of their Women's Super League title against York Valkrie - the stand-alone opening fixture. This contest is a repeat of the 2022 Grand Final. (09.04).(n)</desc>
+  </programme>
+  <programme start="20230815003000 +0000" stop="20230815004500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">WS/Lge: Leeds V St Helens Hlts</title>
+    <desc lang="en">Women's Super League returns as the Rhinos and Saints raise the curtain. Former Saint-turned-Rhino Amy Hardcastle faces her ex-outfit, a side she previously raised silverware with. (26.05).(n)</desc>
+  </programme>
+  <programme start="20230815004500 +0000" stop="20230815010000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">WS/Lge: St Helens V York Hlts</title>
+    <desc lang="en">It's first against second as the Saints play host to the same outfit they snuck past in the Challenge Cup to reach Wembley. Revenge is the aim for the Valkyries. (27.07).(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815030000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">NBA: LA Lakers @ New Orleans</title>
+    <desc lang="en">The New Orleans Pelicans host the Lakers in the NBA. Now within 63 points of Kareem Abdul-Jabbar's scoring record, LeBron James continues his march towards sporting immortality. (04.02).(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815050000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">WNBA: New York @ Indiana</title>
+    <desc lang="en">Kelsey Mitchell's Indiana Fever host Breanna Stewart's New York Liberty in a match-up from the 2023 WNBA. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Fight Night Int: Navarrete v Valdez</title>
+    <desc lang="en">Glendale's Desert Diamond Arena sets the scene for an all-Mexican title bout, as Emanuel Navarrete defends his WBO junior lightweight championship against Oscar Valdez. (12.08).(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815063000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Foreman v Cooney 1990</title>
+    <desc lang="en">Watch the iconic crossroads battle between aging heavyweights George Foreman and Gerry Cooney in a billing known as 'The Preacher and The Puncher'.(n)</desc>
+  </programme>
+  <programme start="20230815063000 +0000" stop="20230815070000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Hagler v Hearns 1985</title>
+    <desc lang="en">Re-watch the historic world middleweight championship boxing match between undisputed champion Marvelous Marvin Hagler and challenger Thomas Hearns.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815090000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">WNBA: New York @ Indiana</title>
+    <desc lang="en">Kelsey Mitchell's Indiana Fever host Breanna Stewart's New York Liberty in a match-up from the 2023 WNBA. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815091500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">WS/Lge: St Helens V York Hlts</title>
+    <desc lang="en">It's first against second as the Saints play host to the same outfit they snuck past in the Challenge Cup to reach Wembley. Revenge is the aim for the Valkyries. (27.07).(n)</desc>
+  </programme>
+  <programme start="20230815091500 +0000" stop="20230815093000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Hull KR V Hull FC Hlts</title>
+    <desc lang="en">The one true inner-city derby arrives here as Hull FC make the short trip to face Hull KR in the Betfred Super League, looking to atone for April's beat-down at the MKM Stadium. (09.07).(n)</desc>
+  </programme>
+  <programme start="20230815093000 +0000" stop="20230815094500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: St Helens V Catalans Hlts</title>
+    <desc lang="en">Two of Super League's heavyweights come to blows, as the world champions St Helens play host to the table-topping Dragons looking to gain ground on first place. (13.07).(n)</desc>
+  </programme>
+  <programme start="20230815094500 +0000" stop="20230815100000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Wigan V Warrington Hlts</title>
+    <desc lang="en">In a fierce rivalry that dates back to 1895, Wigan Warriors meet Warrington Wolves once more with both sides out of form. Bragging rights and vital Super League points are at stake. (14.07).(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815101500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: H'field V Hull FC Hlts</title>
+    <desc lang="en">Hull FC's delayed charge for the playoffs could be boosted with a victory on the road as they head to Huddersfield. Ian Watson's Giants have hit a strong run of Super League form. (27.07).(n)</desc>
+  </programme>
+  <programme start="20230815101500 +0000" stop="20230815103000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: St Helens V Leeds Hlts</title>
+    <desc lang="en">With just a four-point midtable gap, a win is vital for both sides and their playoffs aspirations. Can the Saints hold off last season's runners up in a Grand Final rematch? (28.07).(n)</desc>
+  </programme>
+  <programme start="20230815103000 +0000" stop="20230815104500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Warrington V Catalans Hlts</title>
+    <desc lang="en">With the sun shining down on those in Perpignan, a dark cloud lingers over the Halliwell Jones as the Dragons cross the channel. Will a new face at the helm inspire the Wire? (04.08).(n)</desc>
+  </programme>
+  <programme start="20230815104500 +0000" stop="20230815110000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Leeds V Leigh Hlts</title>
+    <desc lang="en">The surprise package of 2023 continue to go from strength to strength, and with a Challenge Cup final in sight, the Leopards take to Headingley looking to halt the Rhinos' momentum. (06.08).(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815130000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">World Matchplay Darts Final</title>
+    <desc lang="en">With a prize fund of Â£10,000 and entry into the World Darts Championship at stake, a winner is crowned as the final of the 2023 Betfred Women's World Matchplay arrives in Blackpool. (23.07).(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815140000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Black Arrows: The Next Generation</title>
+    <desc lang="en">Darts trailblazer Deta Hedman explores diversity in darts and where the next generation of Black players will come from, who's championing change and where progress is needed.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815141500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Darts Gold: Lewis v MVG 2013</title>
+    <desc lang="en">Adrian Lewis meets Michael Van Gerwen in the semi-finals of the 2013 World Matchplay. Lewis beat Andy Hamilton in the previous round, while Van Gerwen defeated Dave Chisnall.(n)</desc>
+  </programme>
+  <programme start="20230815141500 +0000" stop="20230815143000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Darts Gold: Matchplay Final 2013</title>
+    <desc lang="en">Phil Taylor faces Adrian Lewis in the 2013 World Matchplay final at Blackpool's Winter Gardens. Taylor overcame James Wade in the previous round, while Lewis saw off Michael van Gerwen.(n)</desc>
+  </programme>
+  <programme start="20230815143000 +0000" stop="20230815163000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">WNBA: New York @ Indiana</title>
+    <desc lang="en">Kelsey Mitchell's Indiana Fever host Breanna Stewart's New York Liberty in a match-up from the 2023 WNBA. (13.08).(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815164500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Warrington V Catalans Hlts</title>
+    <desc lang="en">With the sun shining down on those in Perpignan, a dark cloud lingers over the Halliwell Jones as the Dragons cross the channel. Will a new face at the helm inspire the Wire? (04.08).(n)</desc>
+  </programme>
+  <programme start="20230815164500 +0000" stop="20230815170000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Leeds V Leigh Hlts</title>
+    <desc lang="en">The surprise package of 2023 continue to go from strength to strength, and with a Challenge Cup final in sight, the Leopards take to Headingley looking to halt the Rhinos' momentum. (06.08).(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815180000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Fight Night Int:Beterbiev v Browne</title>
+    <desc lang="en">Knockout artist Artur Beterbiev clashes with former Olympian Marcus Browne in a defence of his IBF and WBC light-heavyweight championships at the Bell Centre in Montreal.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815190000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Fight Night Int: Estrada v Yudica</title>
+    <desc lang="en">In a 10-round contest at Palms Casino Resort in Las Vegas, Nevada, Seniesa Estrada defends her WBC and WBA minimumweight titles against Leonela Paola Yudica. (28.07).(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815200000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Kobe Bryant: The Interview</title>
+    <desc lang="en">Remember Kobe Bryant's legacy with this revealing interview, in which the great man speaks candidly about his life, his time in basketball, and his ambitions.(n)</desc>
+  </programme>
+  <programme start="20230815200000 +0000" stop="20230815201500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: St Helens V H'field Hlts</title>
+    <desc lang="en">Sharing similar storylines during the 2023 campaign so far, both Saints and the Giants look to steady the ship halfway through the season. Two points are up for grabs here. (04.06).(n)</desc>
+  </programme>
+  <programme start="20230815201500 +0000" stop="20230815203000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: St Helens V Wigan Hlts</title>
+    <desc lang="en">An old rivalry reignites after an action-packed Magic Weekend, as a Saints side brimming with confidence meet Wigan Warriors. (09.06).(n)</desc>
+  </programme>
+  <programme start="20230815203000 +0000" stop="20230815204500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Hull FC V St Helens Hlts</title>
+    <desc lang="en">Hull FC and St Helens compete in round 16 of the 2023 Betfred Super League season. The Black and Whites aim to right their wrongs after losing to the Saints in cup action last week. (22.06).(n)</desc>
+  </programme>
+  <programme start="20230815204500 +0000" stop="20230815210000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: Warrington V St Helens Hlts</title>
+    <desc lang="en">The time has come for Warrington to step up as St Helens arrive in the 2023 Betfred Super League. Here, the Wolves begin a desperate hunt to recapture their early-season form. (07.07).(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815211500 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: St Helens V Catalans Hlts</title>
+    <desc lang="en">Two of Super League's heavyweights come to blows, as the world champions St Helens play host to the table-topping Dragons looking to gain ground on first place. (13.07).(n)</desc>
+  </programme>
+  <programme start="20230815211500 +0000" stop="20230815213000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">S/Lge: St Helens V Leeds Hlts</title>
+    <desc lang="en">With just a four-point midtable gap, a win is vital for both sides and their playoffs aspirations. Can the Saints hold off last season's runners up in a Grand Final rematch? (28.07).(n)</desc>
+  </programme>
+  <programme start="20230815213000 +0000" stop="20230815220000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Daniel Anderson: Face To Face</title>
+    <desc lang="en">Former St Helens coach Daniel Anderson talks to Fox Sports' Yvonne Sampson about his life-changing accident - and the road ahead.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815230000 +0000" channel="SkySp ArenaHD">
+    <title lang="en">Fight Night Int: Estrada v Yudica</title>
+    <desc lang="en">In a 10-round contest at Palms Casino Resort in Las Vegas, Nevada, Seniesa Estrada defends her WBC and WBA minimumweight titles against Leonela Paola Yudica. (28.07).(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815010000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815020000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815030000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815050000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815070000 +0000" channel="SkySp News">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="SkySp News">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815090000 +0000" channel="SkySp News">
+    <title lang="en">Good Morning Transfers</title>
+    <desc lang="en">Join Sky Sports News for all the latest updates and news from around the transfer market, with analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="SkySp News">
+    <title lang="en">Live: The Football Show</title>
+    <desc lang="en">A look at all the major stories making the football headlines, with discussion and analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="SkySp News">
+    <title lang="en">Live: The Football Show</title>
+    <desc lang="en">A look at all the major stories making the football headlines, with discussion and analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815120000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815130000 +0000" channel="SkySp News">
+    <title lang="en">Transfer Talk</title>
+    <desc lang="en">The Sky Sports team break down all the latest talking points from the summer transfer window, with analysis and discussion of the major headlines.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815133000 +0000" channel="SkySp News">
+    <title lang="en">Sports Desk</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.(n)</desc>
+  </programme>
+  <programme start="20230815133000 +0000" stop="20230815140000 +0000" channel="SkySp News">
+    <title lang="en">Sports Desk</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815150000 +0000" channel="SkySp News">
+    <title lang="en">Sports Desk</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815160000 +0000" channel="SkySp News">
+    <title lang="en">Sports Desk</title>
+    <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.(n)</desc>
+  </programme>
+  <programme start="20230815160000 +0000" stop="20230815163000 +0000" channel="SkySp News">
+    <title lang="en">The Transfer Show</title>
+    <desc lang="en">With the summer window open, join Sky Sports News for all the latest updates and news from around the transfer market, with analysis of the big talking points.(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815170000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815180000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815211500 +0000" channel="SkySp News">
+    <title lang="en">Gillette Labs Soccer Special</title>
+    <desc lang="en">Follow the full story of the evening's football, with the team on hand to provide all the latest updates and goal alerts from the games.(n)</desc>
+  </programme>
+  <programme start="20230815211500 +0000" stop="20230815213000 +0000" channel="SkySp News">
+    <title lang="en">SSN @ 10</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815213000 +0000" stop="20230815220000 +0000" channel="SkySp News">
+    <title lang="en">Back Pages Tonight</title>
+    <desc lang="en">A look at the big stories dominating the news headlines, with discussion and analysis of sport's major topics.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815230000 +0000" channel="SkySp News">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815010000 +0000" channel="Eurosport 1">
+    <title lang="en">Cycling: World Championship</title>
+    <desc lang="en">The best of the action from the women's road race in Glasgow.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815020000 +0000" channel="Eurosport 1">
+    <title lang="en">Bennetts British Superbikes</title>
+    <desc lang="en">The best of the motorcycling action from round seven of the BSB season at Thruxton.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815030000 +0000" channel="Eurosport 1">
+    <title lang="en">Climbing: World Championship</title>
+    <desc lang="en">Coverage of the men's boulder final at the World Championship in Bern.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="Eurosport 1">
+    <title lang="en">Olympic Games: Hall of Fame</title>
+    <desc lang="en">A look back at some of the memorable moments from the best golfers at the Olympic Games Tokyo 2020.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815050000 +0000" channel="Eurosport 1">
+    <title lang="en">Golden Trail World Series</title>
+    <desc lang="en">Trail running from Switzerland with coverage of round four of the Golden Trail World Series, the Sierre Zinal.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="Eurosport 1">
+    <title lang="en">Cycling: World Championship</title>
+    <desc lang="en">Highlights of the men's World Championship road race in Glasgow.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815070000 +0000" channel="Eurosport 1">
+    <title lang="en">Bennetts British Superbikes</title>
+    <desc lang="en">The best of the motorcycling action from round seven of the BSB season at Thruxton.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="Eurosport 1">
+    <title lang="en">Bennetts British Superbikes</title>
+    <desc lang="en">A round-up of the support races at Thruxton.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815090000 +0000" channel="Eurosport 1">
+    <title lang="en">Climbing: World Championship</title>
+    <desc lang="en">Coverage of the men's combined final at the World Championship in Bern, Switzerland.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="Eurosport 1">
+    <title lang="en">Cycling: World Championship</title>
+    <desc lang="en">Highlights of the men's World Championship road race in Glasgow.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="Eurosport 1">
+    <title lang="en">Judo Show</title>
+    <desc lang="en">The latest news and reports from the world of judo.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815120000 +0000" channel="Eurosport 1">
+    <title lang="en">Bennetts British Superbikes</title>
+    <desc lang="en">The best of the motorcycling action from round seven of the BSB season at Thruxton.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815123000 +0000" channel="Eurosport 1">
+    <title lang="en">Playing Fields</title>
+    <desc lang="en">The story of six ambitious African athletes hoping to become Olympians. Ep1.(n)</desc>
+  </programme>
+  <programme start="20230815123000 +0000" stop="20230815124500 +0000" channel="Eurosport 1">
+    <title lang="en">Cycling: Omloop Het Nieuwsblad</title>
+    <desc lang="en">Women's cycling action from Belgium with highlights of the one-day Omloop Het Nieuwsblad race. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815124500 +0000" stop="20230815134500 +0000" channel="Eurosport 1">
+    <title lang="en">Cycling: World Championship</title>
+    <desc lang="en">Highlights of the 2023 Cycling World Championship in Glasgow.(n)</desc>
+  </programme>
+  <programme start="20230815134500 +0000" stop="20230815160500 +0000" channel="Eurosport 1">
+    <title lang="en">Live Cycling: Tour of Denmark</title>
+    <desc lang="en">Live men's cycling as the opening stage of the Tour of Denmark takes place, the riders facing a route of 170km that starts and finishes in Aalborg.(n)</desc>
+  </programme>
+  <programme start="20230815160500 +0000" stop="20230815165000 +0000" channel="Eurosport 1">
+    <title lang="en">Climbing: World Championship</title>
+    <desc lang="en">Coverage of the men's combined final at the World Championship in Bern, Switzerland.(n)</desc>
+  </programme>
+  <programme start="20230815165000 +0000" stop="20230815170000 +0000" channel="Eurosport 1">
+    <title lang="en">Inspire the World</title>
+    <desc lang="en">A series profiling the lives of inspiring sportswomen.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815173000 +0000" channel="Eurosport 1">
+    <title lang="en">Olympic Games: One Year to Dream</title>
+    <desc lang="en">A look ahead to the 2024 Olympic Games as athletes around the world dream of glory.(n)</desc>
+  </programme>
+  <programme start="20230815173000 +0000" stop="20230815180000 +0000" channel="Eurosport 1">
+    <title lang="en">Triathlon PTO Tour</title>
+    <desc lang="en">A preview of the Asian Open, the third of the season's three events, due to take place in Marina Bay, Singapore. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815190000 +0000" channel="Eurosport 1">
+    <title lang="en">Speedway Grand Prix</title>
+    <desc lang="en">A review of events in Riga during round seven of the Grand Prix season.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815191500 +0000" channel="Eurosport 1">
+    <title lang="en">ESET V4 Cup</title>
+    <desc lang="en">Motor racing from the Most Autodrom in the Czech Republic with coverage of the latest ESET V4 Cup race.(n)</desc>
+  </programme>
+  <programme start="20230815191500 +0000" stop="20230815201500 +0000" channel="Eurosport 1">
+    <title lang="en">Cycling: Tour of Denmark</title>
+    <desc lang="en">Action from the opening stage of the Tour of Denmark, which covers a route of 170km that starts and finishes in Aalborg.(n)</desc>
+  </programme>
+  <programme start="20230815201500 +0000" stop="20230815203000 +0000" channel="Eurosport 1">
+    <title lang="en">Olympic Games: The Olympians</title>
+    <desc lang="en">A series focusing on Olympic athletes past and present.(n)</desc>
+  </programme>
+  <programme start="20230815203000 +0000" stop="20230815210000 +0000" channel="Eurosport 1">
+    <title lang="en">Triathlon PTO Tour</title>
+    <desc lang="en">A preview of the Asian Open, the third of the season's three events, due to take place in Marina Bay, Singapore. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815220000 +0000" channel="Eurosport 1">
+    <title lang="en">British Speedway Highlights</title>
+    <desc lang="en">Individual glory awaits in the British Championship final at Belle Vue in Manchester. Dan Bewley was the 2022 champion.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815230000 +0000" channel="Eurosport 1">
+    <title lang="en">Speedway Grand Prix</title>
+    <desc lang="en">All the key moments from round seven of the Grand Prix season in Riga, Latvia.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815010000 +0000" channel="Eurosport 2">
+    <title lang="en">Bennetts British Superbikes</title>
+    <desc lang="en">A round-up of the support races at Thruxton.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815020000 +0000" channel="Eurosport 2">
+    <title lang="en">Cycling: World Championship</title>
+    <desc lang="en">Highlights of the men's World Championship road race in Glasgow.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815030000 +0000" channel="Eurosport 2">
+    <title lang="en">Triathlon PTO Tour</title>
+    <desc lang="en">A round-up of the action during the US Open in Milwaukee, round two of the PTO Tour.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="Eurosport 2">
+    <title lang="en">Bennetts British Superbikes</title>
+    <desc lang="en">The best of the motorcycling action from round seven of the BSB season at Thruxton.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815060000 +0000" channel="Eurosport 2">
+    <title lang="en">Snooker: German Masters</title>
+    <desc lang="en">Action from the final of snooker's German Masters at the Tempodrom in Berlin as Ali Carter faces Tom Ford. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815070000 +0000" channel="Eurosport 2">
+    <title lang="en">Cycling: World Championship</title>
+    <desc lang="en">The best of the action from the women's road race in Glasgow.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="Eurosport 2">
+    <title lang="en">Triathlon PTO Tour</title>
+    <desc lang="en">A round-up of the action during the US Open in Milwaukee, round two of the PTO Tour.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815090000 +0000" channel="Eurosport 2">
+    <title lang="en">Judo Show</title>
+    <desc lang="en">The latest news and reports from the world of judo.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">Highlights of the World Superbike action at the Most Autodrom in the Czech Republic. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="Eurosport 2">
+    <title lang="en">World Superbikes</title>
+    <desc lang="en">A round-up of the supporting events at the Most Autodrom in the Czech Republic. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815120000 +0000" channel="Eurosport 2">
+    <title lang="en">Climbing: World Championship</title>
+    <desc lang="en">The men's and women's lead finals at the World Championship in Bern.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815140000 +0000" channel="Eurosport 2">
+    <title lang="en">Snooker: The Masters</title>
+    <desc lang="en">Highlights of the 2023 Masters Snooker final at Alexandra Palace with Judd Trump and Mark Williams competing for the title. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815150000 +0000" channel="Eurosport 2">
+    <title lang="en">Motocross World Championship</title>
+    <desc lang="en">Motocross action from the Glimminge Motorstadion in Uddevalla with coverage of the first MX2 race during round 15 of the season. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815160000 +0000" channel="Eurosport 2">
+    <title lang="en">Motocross World Championship</title>
+    <desc lang="en">A chance to see the second of the MX2 races at Uddevalla in Sweden. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815160000 +0000" stop="20230815170000 +0000" channel="Eurosport 2">
+    <title lang="en">Archery: World Championship</title>
+    <desc lang="en">Action from the compound events at the World Championship in Berlin. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815180000 +0000" channel="Eurosport 2">
+    <title lang="en">British Speedway Highlights</title>
+    <desc lang="en">Individual glory awaits in the British Championship final at Belle Vue in Manchester. Dan Bewley was the 2022 champion.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815190000 +0000" channel="Eurosport 2">
+    <title lang="en">Judo Show</title>
+    <desc lang="en">The latest news and reports from the world of judo.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815210000 +0000" channel="Eurosport 2">
+    <title lang="en">Snooker: Northern Ireland Open</title>
+    <desc lang="en">Highlights of the Northern Ireland Open final at the Waterfront Hall in Belfast with Mark Allen facing Zhou Yuelong. S2022.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815220000 +0000" channel="Eurosport 2">
+    <title lang="en">Cycling: Tour of Denmark</title>
+    <desc lang="en">Action from the opening stage of the Tour of Denmark, which covers a route of 170km that starts and finishes in Aalborg.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815230000 +0000" channel="Eurosport 2">
+    <title lang="en">Climbing: World Championship</title>
+    <desc lang="en">Action from the women's combined final at the World Championship in Bern.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815031500 +0000" channel="BT Sport 1">
+    <title lang="en">Live: WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Seth Rollins, Rhea Ripley, Cody Rhodes and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.(n)</desc>
+  </programme>
+  <programme start="20230815031500 +0000" stop="20230815041500 +0000" channel="BT Sport 1">
+    <title lang="en">Ariel Helwani Meets: Roman Reigns</title>
+    <desc lang="en">MMA journalist Ariel Helwani sits down with Roman Reigns for a candid interview about his career trajectory, changing character, and working with John Cena.(n)</desc>
+  </programme>
+  <programme start="20230815041500 +0000" stop="20230815043000 +0000" channel="BT Sport 1">
+    <title lang="en">What I Wore: Steven Gerrard</title>
+    <desc lang="en">Former Liverpool and England legend Steven Gerrard describes his passion for football via the shirts which have defined his life.(n)</desc>
+  </programme>
+  <programme start="20230815043000 +0000" stop="20230815050000 +0000" channel="BT Sport 1">
+    <title lang="en">UEFA Documentaries: The Players</title>
+    <desc lang="en">Kylian MbappÃ© and Kevin De Bruyne are the stars in the first episode of a new two-part UEFA documentary series, The Players.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="BT Sport 1">
+    <title lang="en">Down The Clubhouse: Controversies</title>
+    <desc lang="en">The Socially Distant Sports Bar podcast hosts Mike Bubbins, Elis James and Steffan Garrero go Down The Clubhouse to give their hilarious takes on controversial sporting moments.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815070000 +0000" channel="BT Sport 1">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at the best action from the opening weekend of the 2023/23 French Ligue 1 season, including PSG v Lorient, Strasbourg v Lyon and Marseille v Reims.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best action from the opening set of fixtures in 2023/24 Premier League season, including Chelsea v Liverpool and Arsenal v Nottm Forest.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815083000 +0000" channel="BT Sport 1">
+    <title lang="en">PTO Triathlon: Asian Open Preview</title>
+    <desc lang="en">A preview of the Asian Open, part of the PTO Triathlon calendar.(n)</desc>
+  </programme>
+  <programme start="20230815083000 +0000" stop="20230815093000 +0000" channel="BT Sport 1">
+    <title lang="en">Fishing: On The Bank - 2019</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford.(n)</desc>
+  </programme>
+  <programme start="20230815093000 +0000" stop="20230815103000 +0000" channel="BT Sport 1">
+    <title lang="en">UCL Road to Glory: Man Utd 1999</title>
+    <desc lang="en">We relive Man Utd's 1998/99 UEFA Champions League success. From their two 3-3 draws with Barcelona in the group stage to their famous final victory over Bayern Munich.(n)</desc>
+  </programme>
+  <programme start="20230815103000 +0000" stop="20230815110000 +0000" channel="BT Sport 1">
+    <title lang="en">UCL Stories of the Finals</title>
+    <desc lang="en">We turn back the clock to 2011 and Barcelona's memorable victory against Manchester United. Plus, a look back at the 2004 final between Porto and Monaco.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815113000 +0000" channel="BT Sport 1">
+    <title lang="en">What I Wore: Patrick Vieira</title>
+    <desc lang="en">Arsenal legend and former Crystal Palace manager Patrick Vieira describes his passion for football via the shirts which have defined his life.(n)</desc>
+  </programme>
+  <programme start="20230815113000 +0000" stop="20230815120000 +0000" channel="BT Sport 1">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">Highlights from the Vanarama National League, including Oldham v Aldershot Town, Hartlepool v Gateshead and AFC Fylde v Chesterfield.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815123000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League - The Big Interview</title>
+    <desc lang="en">John McGinn's story is one of strong family bonds. The Aston Villa captain tells us about the importance of his upbringing and how it made him the man he is today.(n)</desc>
+  </programme>
+  <programme start="20230815123000 +0000" stop="20230815133000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best action from the opening set of fixtures in 2023/24 Premier League season, including Chelsea v Liverpool and Arsenal v Nottm Forest.(n)</desc>
+  </programme>
+  <programme start="20230815133000 +0000" stop="20230815174500 +0000" channel="BT Sport 1">
+    <title lang="en">Live T20 Cricket: Lanka PL</title>
+    <desc lang="en">Cricket action from the Lanka Premier League as Colombo Strikers face-off against Galle Titans.(n)</desc>
+  </programme>
+  <programme start="20230815174500 +0000" stop="20230815180000 +0000" channel="BT Sport 1">
+    <title lang="en">Badminton Weekly</title>
+    <desc lang="en">The latest episode of Badminton Weekly.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815181500 +0000" channel="BT Sport 1">
+    <title lang="en">MotoGP Rewind: Britain 2023</title>
+    <desc lang="en">A look back at the best of the action from the MotoGP British Grand Prix.(n)</desc>
+  </programme>
+  <programme start="20230815181500 +0000" stop="20230815183000 +0000" channel="BT Sport 1">
+    <title lang="en">Premier League Reload 2023</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points from Chelsea v Liverpool, Newcastle v Aston Villa and more.(n)</desc>
+  </programme>
+  <programme start="20230815183000 +0000" stop="20230815203000 +0000" channel="BT Sport 1">
+    <title lang="en">Live: Sturm Graz v PSV Eindhoven</title>
+    <desc lang="en">Action from the Champions League 3rd Qualifying Round 2nd Leg as Sturm Graz face PSV. The hosts have a mountain to climb, trailing 4-1 from the 1st leg.(n)</desc>
+  </programme>
+  <programme start="20230815203000 +0000" stop="20230815210000 +0000" channel="BT Sport 1">
+    <title lang="en">Fight Week: UFC 292 Preview Show</title>
+    <desc lang="en">Fight Week looks ahead to the upcoming UFC 292 action as Aljamain Sterling and Sean O'Malley get set to face-off in the bantamweight division in Boston.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815220000 +0000" channel="BT Sport 1">
+    <title lang="en">UFC The Ultimate Fighter</title>
+    <desc lang="en">Coached by Conor McGregor and Michael Chandler, this documentary series follows MMA fighters as they train and compete against each other for a contract with the UFC.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815230000 +0000" channel="BT Sport 1">
+    <title lang="en">WSL Challenger Tour</title>
+    <desc lang="en">Action from the US Open of Surfing in Huntington Beach, California.(n)</desc>
+  </programme>
+  <programme start="20230815023000 +0000" stop="20230815033000 +0000" channel="BT Sport 2">
+    <title lang="en">UFC The Ultimate Fighter</title>
+    <desc lang="en">Coached by Conor McGregor and Michael Chandler, this documentary series follows MMA fighters as they train and compete against each other for a contract with the UFC.(n)</desc>
+  </programme>
+  <programme start="20230815033000 +0000" stop="20230815040000 +0000" channel="BT Sport 2">
+    <title lang="en">UFC Greatest Fights</title>
+    <desc lang="en">We turn back the clock to UFC 166 from October 2013 as Gilbert Melendez and Diego Sanchez went head-to-head at the Toyota Center in Texas.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815043000 +0000" channel="BT Sport 2">
+    <title lang="en">UFC Greatest Fights</title>
+    <desc lang="en">We revisit the classic 2016 middleweight main event between Anderson Silva and Michael Bisping at UFC Fight Night in London.(n)</desc>
+  </programme>
+  <programme start="20230815043000 +0000" stop="20230815050000 +0000" channel="BT Sport 2">
+    <title lang="en">PL Legends: Robbie Fowler</title>
+    <desc lang="en">This episode reflects on the Premier League career of former Liverpool forward Robbie Fowler, who is regarded by many as the best finisher to play in the English top flight.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815070000 +0000" channel="BT Sport 2">
+    <title lang="en">AFL: St Kilda v Richmond</title>
+    <desc lang="en">Action from the Australian Football League as St Kilda face-off against Richmond at Marvel Stadium.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815090000 +0000" channel="BT Sport 2">
+    <title lang="en">AFL: Port Adelaide v GWS Giants</title>
+    <desc lang="en">Action from the Australian Football League as Port Adelaide face-off against GWS Giants at the Adelaide Oval.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="BT Sport 2">
+    <title lang="en">West Indies v India - 1st T20</title>
+    <desc lang="en">Cricket action from the 1st T20 between West Indies and India.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="BT Sport 2">
+    <title lang="en">West Indies v India - 2nd T20</title>
+    <desc lang="en">International cricket action from the 2nd T20 between West Indies and India.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815120000 +0000" channel="BT Sport 2">
+    <title lang="en">West Indies v India - 3rd T20</title>
+    <desc lang="en">International cricket action from the 3rd T20 as West Indies take on India.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815130000 +0000" channel="BT Sport 2">
+    <title lang="en">West Indies v India - 4th T20</title>
+    <desc lang="en">Cricket action from the 4th T20 as West Indies host India. The Windies currently lead 2-1 and can clinch the series with a win.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815140000 +0000" channel="BT Sport 2">
+    <title lang="en">West Indies v India - 5th T20</title>
+    <desc lang="en">International cricket action as West Indies face India in the fifth T20. With the series tied at 2-2, who will claim the decisive win.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815153000 +0000" channel="BT Sport 2">
+    <title lang="en">Arsenal v Nottm Forest</title>
+    <desc lang="en">Action from the Premier League as Arsenal host Nottingham Forest at the Emirates Stadium. The Gunners are unbeaten in their last nine home league games against Forest.(n)</desc>
+  </programme>
+  <programme start="20230815153000 +0000" stop="20230815163000 +0000" channel="BT Sport 2">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best action from the opening set of fixtures in 2023/24 Premier League season, including Chelsea v Liverpool and Arsenal v Nottm Forest.(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815170000 +0000" channel="BT Sport 2">
+    <title lang="en">Premier League Netbusters</title>
+    <desc lang="en">The latest episode of Premier League Netbusters, featuring all the best goals and action from the top flight of English football.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815190000 +0000" channel="BT Sport 2">
+    <title lang="en">Live: Sparta Prague v Copenhagen</title>
+    <desc lang="en">Action from the Champions League 3rd Qualifying Round 2nd Leg as Sparta Prague host Copenhagen. The tie is evenly poised following a goalless draw in the 1st leg.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815193000 +0000" channel="BT Sport 2">
+    <title lang="en">Premier League Stories</title>
+    <desc lang="en">He's only been at Man City for one year, but Erling Haaland has already sent records tumbling in the Premier League. We join the 23-year-old to reflect on his blockbuster season.(n)</desc>
+  </programme>
+  <programme start="20230815193000 +0000" stop="20230815200000 +0000" channel="BT Sport 2">
+    <title lang="en">PTO Triathlon: Asian Open Preview</title>
+    <desc lang="en">A preview of the Asian Open, part of the PTO Triathlon calendar.(n)</desc>
+  </programme>
+  <programme start="20230815200000 +0000" stop="20230815223000 +0000" channel="BT Sport 2">
+    <title lang="en">WWE Monday Night Raw</title>
+    <desc lang="en">Watch Drew McIntyre, Seth Rollins, Rhea Ripley, Cody Rhodes and more of your favourite WWE Superstars face-off inside the ring on WWE Monday Night Raw.(n)</desc>
+  </programme>
+  <programme start="20230815223000 +0000" stop="20230815224500 +0000" channel="BT Sport 2">
+    <title lang="en">What I Wore: Kyle Walker</title>
+    <desc lang="en">Manchester City defender Kyle Walker describes his passion for football via the shirts which have defined his life.(n)</desc>
+  </programme>
+  <programme start="20230815224500 +0000" stop="20230815230000 +0000" channel="BT Sport 2">
+    <title lang="en">Badminton Weekly</title>
+    <desc lang="en">The latest episode of Badminton Weekly.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815050000 +0000" channel="SkySp Racing HD">
+    <title lang="en">Australian Racing Live</title>
+    <desc lang="en">Live Australian racing from Ballina, Gunnedah and Gatton.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="SkySp Racing HD">
+    <title lang="en">Australian Racing Live</title>
+    <desc lang="en">Live Australian racing from Ballina, Gunnedah and Gatton.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815090000 +0000" channel="SkySp Racing HD">
+    <title lang="en">Good Morning Sports Fans</title>
+    <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815091500 +0000" channel="SkySp Racing HD">
+    <title lang="en">Dylan Cunha: Flying High</title>
+    <desc lang="en">After emigrating from South Africa, Dylan Cunha is rapidly making a name for himself as a trainer on these shores, and now the former airline pilot has big goals for the future.(n)</desc>
+  </programme>
+  <programme start="20230815091500 +0000" stop="20230815093000 +0000" channel="SkySp Racing HD">
+    <title lang="en">Healing Through Horses</title>
+    <desc lang="en">Londoner Martina Burrell shares her story of how her son, and other children, who experience physical and mental difficulties are healed by interaction with horses.(n)</desc>
+  </programme>
+  <programme start="20230815093000 +0000" stop="20230815094500 +0000" channel="SkySp Racing HD">
+    <title lang="en">The Osbornes</title>
+    <desc lang="en">Father &amp; daughter partnership, Saffie &amp; Jamie Osborne claimed the team &amp; jockey championships in Racing League 2022, they are looking forward to defending their crowns in this year's competition.(n)</desc>
+  </programme>
+  <programme start="20230815094500 +0000" stop="20230815100000 +0000" channel="SkySp Racing HD">
+    <title lang="en">Rundown with Rosie</title>
+    <desc lang="en">The Breeders' Cup Challenge Series Show highlights \"Win And You're In\" races from around the world. Rosie Tapner guides us through the best of the qualifying races from Royal Ascot.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815130000 +0000" channel="SkySp Racing HD">
+    <title lang="en">International Raceday Live</title>
+    <desc lang="en">Mike Cattermole presents live French racing from Deauville. Greyhound racing also features.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815201500 +0000" channel="SkySp Racing HD">
+    <title lang="en">Raceday Live</title>
+    <desc lang="en">Matt Chapman is at Lingfield this afternoon before Newcastle joins in the evening. Group racing features from Deauville, plus further action from Vichy.(n)</desc>
+  </programme>
+  <programme start="20230815201500 +0000" stop="20230815210000 +0000" channel="SkySp Racing HD">
+    <title lang="en">Stateside Live</title>
+    <desc lang="en">Live US racing from Thistledown, Finger Lakes, Fairmount and Horseshoe Indianapolis.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230816010000 +0000" channel="SkySp Racing HD">
+    <title lang="en">Sky Sports News</title>
+    <desc lang="en">The complete picture of the sports news with live analysis and comments, plus extended interviews with the headline makers.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815010000 +0000" channel="BT Sport 3">
+    <title lang="en">Brest v Lens</title>
+    <desc lang="en">French Ligue 1 action as Brest play host to Franck Haise's Lens at Stade Francis-Le Ble. Lens ended last season on a seven-game win streak.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815020000 +0000" channel="BT Sport 3">
+    <title lang="en">Clermont v Monaco</title>
+    <desc lang="en">French Ligue 1 action from Stade Gabriel-Montpied as Clermont take on Monaco. The visitors have faced Clermont four times in Ligue 1 and have never lost.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815030000 +0000" channel="BT Sport 3">
+    <title lang="en">Rennes v Metz</title>
+    <desc lang="en">French Ligue 1 action as Rennes welcome newly promoted Metz to Roazhon Park. Rennes have lost just one of their last 19 encounters with Metz in Ligue 1.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815040000 +0000" channel="BT Sport 3">
+    <title lang="en">Strasbourg v Lyon</title>
+    <desc lang="en">Action from French Ligue 1 as Strasbourg meet Laurent Blanc's Lyon at La Meinau. Lyon have scored in each of their last 25 encounters against Strasbourg in Ligue 1.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815043000 +0000" channel="BT Sport 3">
+    <title lang="en">Marseille v PSG 2002/03</title>
+    <desc lang="en">A look back at the classic 2002/03 Ligue 1 fixture between Marseille and Paris Saint-Germain. The visitors ran out 3-0 winners in spectacular fashion.(n)</desc>
+  </programme>
+  <programme start="20230815043000 +0000" stop="20230815050000 +0000" channel="BT Sport 3">
+    <title lang="en">Saint-Etienne v Lyon 2004/05</title>
+    <desc lang="en">Revisit that classic five-goal thriller from the 2004/05 French Ligue 1 season between Saint-Etienne and Lyon.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="BT Sport 3">
+    <title lang="en">Juventus v Inter</title>
+    <desc lang="en">Serie A action as heavyweights Juventus and Inter go toe-to-toe at Allianz Stadium.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815070000 +0000" channel="BT Sport 3">
+    <title lang="en">Juventus v Lazio</title>
+    <desc lang="en">Juventus welcome Lazio to Allianz Stadium in Serie A. Juventus are unbeaten in 33 of their last 35 Serie A meetings with Lazio.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="BT Sport 3">
+    <title lang="en">Inter v Napoli</title>
+    <desc lang="en">A heavyweight Serie A clash as Inter host Napoli at San Siro. Inter have won each of their last four home Serie A matches against Napoli.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815090000 +0000" channel="BT Sport 3">
+    <title lang="en">AC Milan v Roma</title>
+    <desc lang="en">Action from the top flight in Italy as AC Milan and Roma meet at San Siro.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="BT Sport 3">
+    <title lang="en">Napoli v Juventus</title>
+    <desc lang="en">A heavyweight clash from Serie A as Napoli and Juventus face-off at Stadio Diego Armando Maradona. Napoli have won their last three Serie A home matches against Juventus.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="BT Sport 3">
+    <title lang="en">Lazio v AC Milan</title>
+    <desc lang="en">Lazio host AC Milan at Stadio Olimpico in Serie A. Lazio have kept clean sheets in 10 of 18 matches this season (fewer only than Juventus, who have recorded 12).(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815120000 +0000" channel="BT Sport 3">
+    <title lang="en">Napoli v Roma</title>
+    <desc lang="en">Napoli face Roma in Serie A at Diego Armando Maradona Stadium. Napoli are unbeaten in their last four home league games against Roma.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815130000 +0000" channel="BT Sport 3">
+    <title lang="en">Inter v AC Milan</title>
+    <desc lang="en">Action from the Milan derby as Inter and AC Milan face-off at San Siro. Milan have won their last two Serie A derbies against Inter.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815140000 +0000" channel="BT Sport 3">
+    <title lang="en">Napoli v Lazio</title>
+    <desc lang="en">Napoli and Lazio go head-to-head in Serie A at Diego Armando Maradona Stadium.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815150000 +0000" channel="BT Sport 3">
+    <title lang="en">Roma v Juventus</title>
+    <desc lang="en">Action from the top flight in Italy as Jose Mourinho's Roma side host Juventus at Allianz Stadium.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815160000 +0000" channel="BT Sport 3">
+    <title lang="en">Lazio v Roma</title>
+    <desc lang="en">Serie A action from Stadio Olimpico as Lazio host city rivals Roma. Lazio could win both seasonal matches against Roma for the first time since 2011/12.(n)</desc>
+  </programme>
+  <programme start="20230815160000 +0000" stop="20230815170000 +0000" channel="BT Sport 3">
+    <title lang="en">Inter v Juventus</title>
+    <desc lang="en">Inter host Juventus at San Siro in Serie A. Only Napoli (23) have scored more goals than Juventus (20) in Serie A in 2023.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815180000 +0000" channel="BT Sport 3">
+    <title lang="en">Inside Serie A</title>
+    <desc lang="en">A look ahead to the Serie A 2023/24 season, covering every team in the Italian top flight.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815200000 +0000" channel="BT Sport 3">
+    <title lang="en">Live: Galatasaray v Olimpija L</title>
+    <desc lang="en">Action from the Champions League 3rd Qualifying Round 2nd Leg as Galatasaray take on Olimpija Ljubljana. The hosts have a three-goal advantage from the 1st leg.(n)</desc>
+  </programme>
+  <programme start="20230815200000 +0000" stop="20230815213000 +0000" channel="BT Sport 3">
+    <title lang="en">The Boot Room Boys</title>
+    <desc lang="en">We explore how Liverpool's unique club culture underpinned the club's success. Featuring contributions from Jurgen Klopp, Ian Rush, Phil Thompson and many more.(n)</desc>
+  </programme>
+  <programme start="20230815213000 +0000" stop="20230815223000 +0000" channel="BT Sport 3">
+    <title lang="en">UCL Road to Glory: Liverpool 2005</title>
+    <desc lang="en">We take a look back at Liverpool's 2005 UEFA Champions League success. From their group stage victory over Olympiakos to that match in Istanbul.(n)</desc>
+  </programme>
+  <programme start="20230815223000 +0000" stop="20230815230000 +0000" channel="BT Sport 3">
+    <title lang="en">Fight Week: UFC 292 Preview Show</title>
+    <desc lang="en">Fight Week looks ahead to the upcoming UFC 292 action as Aljamain Sterling and Sean O'Malley get set to face-off in the bantamweight division in Boston.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815013000 +0000" channel="MUTV">
+    <title lang="en">Match Day Review</title>
+    <desc lang="en">Our special guests discuss the Reds' first game of the 23/24 season against Wolverhampton Wanderers, plus exclusive post-match interviews with the manager and players.(n)</desc>
+  </programme>
+  <programme start="20230815013000 +0000" stop="20230815030000 +0000" channel="MUTV">
+    <title lang="en">PL: United v Tottenham 08/09</title>
+    <desc lang="en">United Archives 25/4/09. United took on Tottenham knowing that victory was a must, with Liverpool desperate for the Reds to slip up.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815050000 +0000" channel="MUTV">
+    <title lang="en">PL Match: v Wolves 23/24 (H)</title>
+    <desc lang="en">Full coverage of United's first Premier League game of the 2023/24 season against Wolverhampton Wanderers.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815053000 +0000" channel="MUTV">
+    <title lang="en">Match Day Review</title>
+    <desc lang="en">Our special guests discuss the Reds' first game of the 23/24 season against Wolverhampton Wanderers, plus exclusive post-match interviews with the manager and players.(n)</desc>
+  </programme>
+  <programme start="20230815053000 +0000" stop="20230815073000 +0000" channel="MUTV">
+    <title lang="en">PL Match: v Wolves 23/24 (H)</title>
+    <desc lang="en">Full coverage of United's first Premier League game of the 2023/24 season against Wolverhampton Wanderers.(n)</desc>
+  </programme>
+  <programme start="20230815073000 +0000" stop="20230815080000 +0000" channel="MUTV">
+    <title lang="en">Match Day Review</title>
+    <desc lang="en">Our special guests discuss the Reds' first game of the 23/24 season against Wolverhampton Wanderers, plus exclusive post-match interviews with the manager and players.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815100000 +0000" channel="MUTV">
+    <title lang="en">PL Match: v Wolves 23/24 (H)</title>
+    <desc lang="en">Full coverage of United's first Premier League game of the 2023/24 season against Wolverhampton Wanderers.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815103000 +0000" channel="MUTV">
+    <title lang="en">Match Day Review</title>
+    <desc lang="en">Our special guests discuss the Reds' first game of the 23/24 season against Wolverhampton Wanderers, plus exclusive post-match interviews with the manager and players.(n)</desc>
+  </programme>
+  <programme start="20230815103000 +0000" stop="20230815120000 +0000" channel="MUTV">
+    <title lang="en">All The Goals: Rashford</title>
+    <desc lang="en">Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815123000 +0000" channel="MUTV">
+    <title lang="en">UCL: Aalborg v United 08/09</title>
+    <desc lang="en">United Archives 30/9/08. United travelled to Denmark looking to claim their first Champions League victory of the season, following a goalless draw with Villarreal last time out.(n)</desc>
+  </programme>
+  <programme start="20230815123000 +0000" stop="20230815130000 +0000" channel="MUTV">
+    <title lang="en">PL Highlights: v Wolves 23/24 (H)</title>
+    <desc lang="en">Highlights of United's first Premier League game of the 2023/24 season against Wolverhampton Wanderers.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815150000 +0000" channel="MUTV">
+    <title lang="en">PL: United v Stoke City 08/09</title>
+    <desc lang="en">United Archives 15/11/08. Ronaldo netted his 100th United goal and Danny Welbeck had a Premier League debut to remember with a wonderful strike in this demolition of Stoke City.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815170000 +0000" channel="MUTV">
+    <title lang="en">PL Match: v Wolves 23/24 (H)</title>
+    <desc lang="en">Full coverage of United's first Premier League game of the 2023/24 season against Wolverhampton Wanderers.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815173000 +0000" channel="MUTV">
+    <title lang="en">U21s Highlights: C Palace v United</title>
+    <desc lang="en">Highlights of the PL2 game against Crystal Palace.(n)</desc>
+  </programme>
+  <programme start="20230815173000 +0000" stop="20230815180000 +0000" channel="MUTV">
+    <title lang="en">PL: United v Aston Villa 08/09</title>
+    <desc lang="en">United Archives 5/4/09. With the title race hotting up an unlikely hero comes off the bench to become an instant United star.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815183000 +0000" channel="MUTV">
+    <title lang="en">UCL: Arsenal v United 08/09</title>
+    <desc lang="en">United Archives 5/5/09. United take a 1 goal lead to The Emirates for the Champions League Semi Final second leg.(n)</desc>
+  </programme>
+  <programme start="20230815183000 +0000" stop="20230815190000 +0000" channel="MUTV">
+    <title lang="en">PL Highlights: v Wolves 23/24 (H)</title>
+    <desc lang="en">Highlights of United's first Premier League game of the 2023/24 season against Wolverhampton Wanderers.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815193000 +0000" channel="MUTV">
+    <title lang="en">PL: United v Manchester City 08/09</title>
+    <desc lang="en">United Archives 10/5/09. United were closing in on another Premier League crown, could Manchester City put the brakes on Sir Alex's title charge.(n)</desc>
+  </programme>
+  <programme start="20230815193000 +0000" stop="20230815200000 +0000" channel="MUTV">
+    <title lang="en">PL: Wigan v United 08/09</title>
+    <desc lang="en">United Archives 13/5/09. United took on Wigan knowing that a win would put them on the brink of a third consecutive Premier League title back in 2009.(n)</desc>
+  </programme>
+  <programme start="20230815200000 +0000" stop="20230815213000 +0000" channel="MUTV">
+    <title lang="en">All The Goals: Rashford</title>
+    <desc lang="en">Watch every goal of United Academy graduate Marcus Rashford as he enters the top 20 goalscorers in the club's history.(n)</desc>
+  </programme>
+  <programme start="20230815213000 +0000" stop="20230815233000 +0000" channel="MUTV">
+    <title lang="en">PL Match: v Wolves 23/24 (H)</title>
+    <desc lang="en">Full coverage of United's first Premier League game of the 2023/24 season against Wolverhampton Wanderers.(n)</desc>
+  </programme>
+  <programme start="20230815013000 +0000" stop="20230815043000 +0000" channel="FreeSports HD">
+    <title lang="en">Ultimate Pool Pairs Cup</title>
+    <desc lang="en">Watch all the best in Ultimate Pool action in the Pairs Pool Cup for 2023 season.(n)</desc>
+  </programme>
+  <programme start="20230815043000 +0000" stop="20230815050000 +0000" channel="FreeSports HD">
+    <title lang="en">Aquabike Highlights: GP of Italy 2</title>
+    <desc lang="en">Watch all the coverage from the latest season of the Aquabike World Championship, it is the premier class of jet-ski racing in the world.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="FreeSports HD">
+    <title lang="en">Supercars Highlights: Sydney SuperNight Part 1</title>
+    <desc lang="en">Watch all the highlights from the latest round of the Supercars Championship.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815070000 +0000" channel="FreeSports HD">
+    <title lang="en">Supercars Highlights: Sydney SuperNight Part 2</title>
+    <desc lang="en">Watch all the highlights from the latest round of the Supercars Championship.(n)</desc>
+  </programme>
+  <programme start="20230815070000 +0000" stop="20230815080000 +0000" channel="FreeSports HD">
+    <title lang="en">Transworld Sport</title>
+    <desc lang="en">Transworld Sport takes a look at the best, the most interesting and most informative stories from the world of sport.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815103000 +0000" channel="FreeSports HD">
+    <title lang="en">URC: DHL Stormers v Munster</title>
+    <desc lang="en">The URC Grand Final takes place from DHL Stadium as Munster travel to Cape Town to take on the DHL Stormers.(n)</desc>
+  </programme>
+  <programme start="20230815103000 +0000" stop="20230815110000 +0000" channel="FreeSports HD">
+    <title lang="en">GP Confidential</title>
+    <desc lang="en">Explore the sporting secrets of F1, in a behind the scenes look at the technical side of the sport. GP Confidential is the perfect treat for any F1 fan.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815140000 +0000" channel="FreeSports HD">
+    <title lang="en">Ultimate Pool Pairs Cup</title>
+    <desc lang="en">Watch all the best in Ultimate Pool action in the Pairs Pool Cup for 2023 season.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815143000 +0000" channel="FreeSports HD">
+    <title lang="en">Bike World</title>
+    <desc lang="en">Bike World brings you the latest action from the high octane world of two wheels, On road, off road or on track.(n)</desc>
+  </programme>
+  <programme start="20230815143000 +0000" stop="20230815153000 +0000" channel="FreeSports HD">
+    <title lang="en">PassMeFast Ultimate Karting: Clay Pigeon Part 1</title>
+    <desc lang="en">Watch all the latest highlights from the latest round of Ultimate Karting Championship.(n)</desc>
+  </programme>
+  <programme start="20230815153000 +0000" stop="20230815163000 +0000" channel="FreeSports HD">
+    <title lang="en">PassMeFast Ultimate Karting: Clay Pigeon Part 2</title>
+    <desc lang="en">Watch all the latest highlights from the latest round of Ultimate Karting Championship.(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815170000 +0000" channel="FreeSports HD">
+    <title lang="en">FastZone</title>
+    <desc lang="en">A weekly Motorsports highlights show covering everything from prototypes to endurance racing, karting to airplanes and even some real oddities.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815190000 +0000" channel="FreeSports HD">
+    <title lang="en">Viaplay Cup: Dundee v Inverness</title>
+    <desc lang="en">Dundee and Inverness CT battle it out in this final game of Viaplay Cup group action from Kilmac Stadium at Dens Park.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815200000 +0000" channel="FreeSports HD">
+    <title lang="en">NASCAR Highlights: Indianapolis</title>
+    <desc lang="en">Highlights from the latest round of the 2023 NASCAR Cup Series.(n)</desc>
+  </programme>
+  <programme start="20230815200000 +0000" stop="20230815210000 +0000" channel="FreeSports HD">
+    <title lang="en">Supercars Highlights: Sydney SuperNight Part 1</title>
+    <desc lang="en">Watch all the highlights from the latest round of the Supercars Championship.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815220000 +0000" channel="FreeSports HD">
+    <title lang="en">Supercars Highlights: Sydney SuperNight Part 2</title>
+    <desc lang="en">Watch all the highlights from the latest round of the Supercars Championship.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230816010000 +0000" channel="FreeSports HD">
+    <title lang="en">KSW: KSW 84</title>
+    <desc lang="en">KSW 84 takes centre stage at Polsat Plus Arena in Gdynia as England's Phil de Fries takes on Szymon Bajor for the heavyweight title in the main event.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815013000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Bromley v Barnet</title>
+    <desc lang="en">Action from the Vanarama National League as Bromley host Barnet at Hayes Lane.(n)</desc>
+  </programme>
+  <programme start="20230815013000 +0000" stop="20230815020000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">National League Highlights</title>
+    <desc lang="en">Highlights from the Vanarama National League, including Oldham v Aldershot Town, Hartlepool v Gateshead and AFC Fylde v Chesterfield.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815023000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">What I Wore: Dimitar Berbatov</title>
+    <desc lang="en">Dimitar Berbatov describes his passion for football via the shirts which have defined his life.(n)</desc>
+  </programme>
+  <programme start="20230815023000 +0000" stop="20230815033000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Fishing: On The Bank - 2019</title>
+    <desc lang="en">Angling magazine show presented by Rob Hughes and Andy Ford.(n)</desc>
+  </programme>
+  <programme start="20230815033000 +0000" stop="20230815040000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">PTO Triathlon</title>
+    <desc lang="en">A preview of the Asian Open, part of the PTO Triathlon calendar.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815050000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at the best action from the opening weekend of the 2023/23 French Ligue 1 season, including PSG v Lorient, Strasbourg v Lyon and Marseille v Reims.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815063000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Gallagher Premiership Highlights</title>
+    <desc lang="en">The best of the latest action from the Gallagher Premiership.(n)</desc>
+  </programme>
+  <programme start="20230815063000 +0000" stop="20230815090000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">MLB: Yankees @ Braves</title>
+    <desc lang="en">MLB action as New York Yankees and Atlanta Braves meet at Truist Park.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">2020 World Series Review</title>
+    <desc lang="en">A look back at the 2020 MLB World Series. The Los Angeles Dodgers and Tampa Bay Rays went toe-to-toe in the MLB's first ever neutral site World Series due to the Covid 19 pandemic.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">2021 MLB World Series Review</title>
+    <desc lang="en">A look back at the 2021 MLB World Series as the Atlanta Braves and Houston Astros battled it out for the Commissioner's Trophy.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815120000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">MLB 2022 World Series Review</title>
+    <desc lang="en">A look back at the 2022 MLB World Serie as Houston Astros and Philadelphia Phillies battled it out for the Commissioner's Trophy.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815130000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Nice v Lille</title>
+    <desc lang="en">Action from French Ligue 1 as Nice welcome Paulo Fonseca's Lille to the Allianz Riviera. Nice have won three of their last four Ligue 1 matches against Lille.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815140000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Ligue 1</title>
+    <desc lang="en">Action from French Ligue 1 as Marseille welcome Will Still's Reims to the Stade Velodrome. Marseille were emphatic 4-1 winners in the same fixture last season.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815150000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">PSG v Lorient</title>
+    <desc lang="en">French Ligue 1 champions Paris Saint-Germain begin their 2023/24 campaign against Lorient at Parc des Princes. Lorient claimed a memorable 3-1 win in this fixture last season.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815160000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Down The Clubhouse Youth &amp; Vintage</title>
+    <desc lang="en">The Socially Distant Sports Bar podcast hosts Mike Bubbins, Elis James and Steffan Garrero go Down The Clubhouse to give their take on the amazing athletes of young and old.(n)</desc>
+  </programme>
+  <programme start="20230815160000 +0000" stop="20230815170000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A look back at the best action from the opening weekend of the 2023/23 French Ligue 1 season, including PSG v Lorient, Strasbourg v Lyon and Marseille v Reims.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815190000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">Live: Aris Limassol v Rakow</title>
+    <desc lang="en">Action from the Champions League 3rd Qualifying Round 2nd Leg as Aris Limassol face Rakow. The hosts are behind after losing 2-1 in the 1st leg.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815200000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">WSL Challenger Tour</title>
+    <desc lang="en">Action from the US Open of Surfing in Huntington Beach, California.(n)</desc>
+  </programme>
+  <programme start="20230815200000 +0000" stop="20230815223000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">MLB: Yankees @ Braves</title>
+    <desc lang="en">MLB action as New York Yankees and Atlanta Braves meet at Truist Park.(n)</desc>
+  </programme>
+  <programme start="20230815223000 +0000" stop="20230816003000 +0000" channel="BT Sport//ESPN">
+    <title lang="en">AFL: Collingwood v Geelong Cats</title>
+    <desc lang="en">Action from the AFL as Collingwood face-off against Geelong Cats at the MCG.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815020000 +0000" channel="LFCTV HD">
+    <title lang="en">Chelsea v Liverpool: The Match Reaction</title>
+    <desc lang="en">A look back at the match against Chelsea with exclusive interviews from the Reds' dressing room and in-depth analysis. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815020000 +0000" stop="20230815023000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Neil Mellor analyses the action and looks back at the statistics from Liverpool's game against Chelsea. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815023000 +0000" stop="20230815030000 +0000" channel="LFCTV HD">
+    <title lang="en">When Stevie Met Salah</title>
+    <desc lang="en">Record-breaker Mohamed Salah meets Steven Gerrard to discuss the art of goalscoring.(n)</desc>
+  </programme>
+  <programme start="20230815030000 +0000" stop="20230815050000 +0000" channel="LFCTV HD">
+    <title lang="en">Chelsea v Liverpool: The Match</title>
+    <desc lang="en">All the action as Liverpool take on Chelsea at Stamford Bridge in the first game of the Premier League season. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="LFCTV HD">
+    <title lang="en">Sixty Minutes</title>
+    <desc lang="en">In this 2015 interview, LFCTV sits down with Terry McDermott to talk about his career at Liverpool.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815063000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Neil Mellor analyses the action and looks back at the statistics from Liverpool's game against Chelsea. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815063000 +0000" stop="20230815073000 +0000" channel="LFCTV HD">
+    <title lang="en">When We Were Kings</title>
+    <desc lang="en">Kenny Dalglish and Graeme Souness reminisce about their playing careers.(n)</desc>
+  </programme>
+  <programme start="20230815073000 +0000" stop="20230815080000 +0000" channel="LFCTV HD">
+    <title lang="en">Bugsy Moran</title>
+    <desc lang="en">A tribute to Liverpool's sergeant major. A documentary looking back on the illustrious Anfield career of bootroom legend Ronnie Moran.(n)</desc>
+  </programme>
+  <programme start="20230815080000 +0000" stop="20230815100000 +0000" channel="LFCTV HD">
+    <title lang="en">Liverpool U18 v Nottingham Forest: The Match</title>
+    <desc lang="en">All the action as Liverpool U18 take on Nottingham Forest. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815103000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Neil Mellor analyses the action and looks back at the statistics from Liverpool's game against Chelsea. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815103000 +0000" stop="20230815110000 +0000" channel="LFCTV HD">
+    <title lang="en">Kop 10</title>
+    <desc lang="en">Relive ten of Liverpool's most memorable European nights at Anfield in the Champions League.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815110300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+  </programme>
+  <programme start="20230815110300 +0000" stop="20230815130000 +0000" channel="LFCTV HD">
+    <title lang="en">Chelsea v Liverpool: The Match</title>
+    <desc lang="en">All the action as Liverpool take on Chelsea at Stamford Bridge in the first game of the Premier League season. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815130000 +0000" stop="20230815130300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+  </programme>
+  <programme start="20230815130300 +0000" stop="20230815140000 +0000" channel="LFCTV HD">
+    <title lang="en">Chelsea v Liverpool: The Match Reaction</title>
+    <desc lang="en">A look back at the match against Chelsea with exclusive interviews from the Reds' dressing room and in-depth analysis. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815140000 +0000" stop="20230815143000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Neil Mellor analyses the action and looks back at the statistics from Liverpool's game against Chelsea. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815143000 +0000" stop="20230815150000 +0000" channel="LFCTV HD">
+    <title lang="en">Macca and Macca</title>
+    <desc lang="en">Steve McManaman discusses his match-winning performance in the 1995 League Cup Final with his opponent that day Jason McAteer.(n)</desc>
+  </programme>
+  <programme start="20230815150000 +0000" stop="20230815150300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+  </programme>
+  <programme start="20230815150300 +0000" stop="20230815153000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Review Show</title>
+    <desc lang="en">John Barnes joins Neil Mellor to analyse the action and talk through the stats from the 1987 Division One win over QPR.(n)</desc>
+  </programme>
+  <programme start="20230815153000 +0000" stop="20230815160000 +0000" channel="LFCTV HD">
+    <title lang="en">Rush Scored Four</title>
+    <desc lang="en">A mini-documentary that relives the unforgettable afternoon at Goodison Park in 1982 when Ian Rush inspired the Reds to a famous 5-0 derby victory.(n)</desc>
+  </programme>
+  <programme start="20230815160000 +0000" stop="20230815160500 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+  </programme>
+  <programme start="20230815160500 +0000" stop="20230815161500 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">A look back at some of Ray Kennedy's greatest Liverpool goals.(n)</desc>
+  </programme>
+  <programme start="20230815161500 +0000" stop="20230815163000 +0000" channel="LFCTV HD">
+    <title lang="en">Liverpool U18 v Nottingham Forest: Shortcut</title>
+    <desc lang="en">The best of the action as Liverpool U18 take on Nottingham Forest. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815164500 +0000" channel="LFCTV HD">
+    <title lang="en">Chelsea v Liverpool: Shortcut</title>
+    <desc lang="en">The best of the action as Liverpool take on Chelsea. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815164500 +0000" stop="20230815170000 +0000" channel="LFCTV HD">
+    <title lang="en">Liverpool U21 v Everton: Shortcut</title>
+    <desc lang="en">The best of the action as Liverpool U21 take on Everton. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815170000 +0000" stop="20230815170500 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+  </programme>
+  <programme start="20230815170500 +0000" stop="20230815174500 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">All the goals from Liverpool's 2022/23 Premier League season.(n)</desc>
+  </programme>
+  <programme start="20230815174500 +0000" stop="20230815180000 +0000" channel="LFCTV HD">
+    <title lang="en">What LFC Means to Me</title>
+    <desc lang="en">Former Liverpool midfielder Xabi Alonso speaks exclusively to LFCTV about his feelings for the club.(n)</desc>
+  </programme>
+  <programme start="20230815180000 +0000" stop="20230815190000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Box</title>
+    <desc lang="en">Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.(n)</desc>
+  </programme>
+  <programme start="20230815190000 +0000" stop="20230815210000 +0000" channel="LFCTV HD">
+    <title lang="en">Chelsea v Liverpool: The Match</title>
+    <desc lang="en">All the action as Liverpool take on Chelsea at Stamford Bridge in the first game of the Premier League season. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815210500 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+  </programme>
+  <programme start="20230815210500 +0000" stop="20230815213000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Neil Mellor analyses the action and looks back at the statistics from Liverpool's game against Chelsea. S2023.(n)</desc>
+  </programme>
+  <programme start="20230815213000 +0000" stop="20230815220000 +0000" channel="LFCTV HD">
+    <title lang="en">When Stevie Met Salah</title>
+    <desc lang="en">Record-breaker Mohamed Salah meets Steven Gerrard to discuss the art of goalscoring.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815230000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Box</title>
+    <desc lang="en">Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.(n)</desc>
+  </programme>
+  <programme start="20230815000000 +0000" stop="20230815010000 +0000" channel="Racing TV HD">
+    <title lang="en">Irish Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Ballinrobe.(n)</desc>
+  </programme>
+  <programme start="20230815010000 +0000" stop="20230815013000 +0000" channel="Racing TV HD">
+    <title lang="en">The Verdict</title>
+    <desc lang="en">Angus McNae runs the rule over the flat season and starts with an exciting week of Classic trials.(n)</desc>
+  </programme>
+  <programme start="20230815013000 +0000" stop="20230815023000 +0000" channel="Racing TV HD">
+    <title lang="en">Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Kempton and Hamilton.(n)</desc>
+  </programme>
+  <programme start="20230815023000 +0000" stop="20230815033000 +0000" channel="Racing TV HD">
+    <title lang="en">Irish Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Ballinrobe.(n)</desc>
+  </programme>
+  <programme start="20230815033000 +0000" stop="20230815040000 +0000" channel="Racing TV HD">
+    <title lang="en">The Verdict</title>
+    <desc lang="en">Angus McNae runs the rule over the flat season and starts with an exciting week of Classic trials.(n)</desc>
+  </programme>
+  <programme start="20230815040000 +0000" stop="20230815050000 +0000" channel="Racing TV HD">
+    <title lang="en">Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Kempton and Hamilton.(n)</desc>
+  </programme>
+  <programme start="20230815050000 +0000" stop="20230815060000 +0000" channel="Racing TV HD">
+    <title lang="en">Irish Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Ballinrobe.(n)</desc>
+  </programme>
+  <programme start="20230815060000 +0000" stop="20230815063000 +0000" channel="Racing TV HD">
+    <title lang="en">The Verdict</title>
+    <desc lang="en">Angus McNae runs the rule over the flat season and starts with an exciting week of Classic trials.(n)</desc>
+  </programme>
+  <programme start="20230815063000 +0000" stop="20230815073000 +0000" channel="Racing TV HD">
+    <title lang="en">Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Kempton and Hamilton.(n)</desc>
+  </programme>
+  <programme start="20230815073000 +0000" stop="20230815083000 +0000" channel="Racing TV HD">
+    <title lang="en">Irish Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Ballinrobe.(n)</desc>
+  </programme>
+  <programme start="20230815083000 +0000" stop="20230815090000 +0000" channel="Racing TV HD">
+    <title lang="en">The Verdict</title>
+    <desc lang="en">Angus McNae runs the rule over the flat season and starts with an exciting week of Classic trials.(n)</desc>
+  </programme>
+  <programme start="20230815090000 +0000" stop="20230815100000 +0000" channel="Racing TV HD">
+    <title lang="en">Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Kempton and Hamilton.(n)</desc>
+  </programme>
+  <programme start="20230815100000 +0000" stop="20230815110000 +0000" channel="Racing TV HD">
+    <title lang="en">Irish Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Ballinrobe.(n)</desc>
+  </programme>
+  <programme start="20230815110000 +0000" stop="20230815113000 +0000" channel="Racing TV HD">
+    <title lang="en">The Verdict</title>
+    <desc lang="en">Angus McNae runs the rule over the flat season and starts with an exciting week of Classic trials.(n)</desc>
+  </programme>
+  <programme start="20230815113000 +0000" stop="20230815120000 +0000" channel="Racing TV HD">
+    <title lang="en">Racing Replay</title>
+    <desc lang="en">Another chance to watch yesterday's racing action from Kempton and Hamilton.(n)</desc>
+  </programme>
+  <programme start="20230815120000 +0000" stop="20230815123000 +0000" channel="Racing TV HD">
+    <title lang="en">Mark Your Card</title>
+    <desc lang="en">A preview of the day's racing with live news from the courses.(n)</desc>
+  </programme>
+  <programme start="20230815123000 +0000" stop="20230815163000 +0000" channel="Racing TV HD">
+    <title lang="en">Live Racing</title>
+    <desc lang="en">Today's live racing action from Nottingham and Dundalk.(n)</desc>
+  </programme>
+  <programme start="20230815163000 +0000" stop="20230815193000 +0000" channel="Racing TV HD">
+    <title lang="en">Live Evening Racing</title>
+    <desc lang="en">This Evening's live racing action from Chelmsford.(n)</desc>
+  </programme>
+  <programme start="20230815193000 +0000" stop="20230815203000 +0000" channel="Racing TV HD">
+    <title lang="en">Racing Replay</title>
+    <desc lang="en">Another chance to watch today's racing action from Nottingham and Chelmsford.(n)</desc>
+  </programme>
+  <programme start="20230815203000 +0000" stop="20230815210000 +0000" channel="Racing TV HD">
+    <title lang="en">Irish Racing Replay</title>
+    <desc lang="en">Another chance to watch today's racing action from Dundalk.(n)</desc>
+  </programme>
+  <programme start="20230815210000 +0000" stop="20230815220000 +0000" channel="Racing TV HD">
+    <title lang="en">Racing Replay</title>
+    <desc lang="en">Another chance to watch today's racing action from Nottingham and Chelmsford.(n)</desc>
+  </programme>
+  <programme start="20230815220000 +0000" stop="20230815223000 +0000" channel="Racing TV HD">
+    <title lang="en">Irish Racing Replay</title>
+    <desc lang="en">Another chance to watch today's racing action from Dundalk.(n)</desc>
+  </programme>
+  <programme start="20230815223000 +0000" stop="20230815233000 +0000" channel="Racing TV HD">
+    <title lang="en">Racing Replay</title>
+    <desc lang="en">Another chance to watch today's racing action from Nottingham and Chelmsford.(n)</desc>
+  </programme>
+</tv>
